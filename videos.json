@@ -296,5 +296,53 @@
   "stage": "35R",
   "event": "K리그1",
   "quality": 1
+ },
+ {
+  "id": "0ua5XjCa4aE",
+  "published": "2026-11-07T15:30:29+00:00",
+  "leagueId": "kbl",
+  "a": "kbl-kt",
+  "b": "kbl-kogas",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "11/7"
+ },
+ {
+  "id": "JlbDhfQ4loc",
+  "published": "2026-11-07T13:00:22+00:00",
+  "leagueId": "kbl",
+  "a": "kbl-db",
+  "b": "kbl-samsung",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "11/7"
+ },
+ {
+  "id": "G7uR3clsxKM",
+  "published": "2026-11-07T13:00:15+00:00",
+  "leagueId": "kbl",
+  "a": "kbl-lg",
+  "b": "kbl-sono",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "11/7"
+ },
+ {
+  "id": "jIJKw4wm-Mg",
+  "published": "2026-11-07T13:30:17+00:00",
+  "leagueId": "kleague",
+  "a": "kleague:김천",
+  "b": "kleague:안양",
+  "unit": "single",
+  "n": null,
+  "stage": "35R",
+  "event": "K리그1",
+  "quality": 2
  }
 ]

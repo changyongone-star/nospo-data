@@ -1,0 +1,142 @@
+[
+ {
+  "id": "HQWlsD-zCNw",
+  "published": "2026-11-04T01:00:00+00:00",
+  "a": "ig",
+  "b": "tes",
+  "kind": "match",
+  "game": null,
+  "stage": "녹아웃 8강 Day1",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "zEbNYJKGGZY",
+  "published": "2026-11-04T22:00:00+00:00",
+  "a": "gen",
+  "b": "lyon",
+  "kind": "game",
+  "game": 1,
+  "stage": "녹아웃 8강 Day2",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "CUJpJIngEQ8",
+  "published": "2026-11-04T23:00:00+00:00",
+  "a": "gen",
+  "b": "lyon",
+  "kind": "game",
+  "game": 2,
+  "stage": "녹아웃 8강 Day2",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "enjWZVxWA0Q",
+  "published": "2026-11-04T24:00:00+00:00",
+  "a": "gen",
+  "b": "lyon",
+  "kind": "game",
+  "game": 3,
+  "stage": "녹아웃 8강 Day2",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "fcGG5H8fi3Q",
+  "published": "2026-11-05T01:30:00+00:00",
+  "a": "gen",
+  "b": "lyon",
+  "kind": "match",
+  "game": null,
+  "stage": "녹아웃 8강 Day2",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "lyhJoGKKaOc",
+  "published": "2026-11-05T23:14:00+00:00",
+  "a": "blg",
+  "b": "dk",
+  "kind": "game",
+  "game": 1,
+  "stage": "녹아웃 8강 Day3",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "Ob_bvHQ8kgA",
+  "published": "2026-11-06T00:19:00+00:00",
+  "a": "blg",
+  "b": "dk",
+  "kind": "game",
+  "game": 2,
+  "stage": "녹아웃 8강 Day3",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "99lMm4kPg0o",
+  "published": "2026-11-06T01:00:00+00:00",
+  "a": "blg",
+  "b": "dk",
+  "kind": "game",
+  "game": 3,
+  "stage": "녹아웃 8강 Day3",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "NbvXmaYKLDI",
+  "published": "2026-11-06T01:05:00+00:00",
+  "a": "blg",
+  "b": "dk",
+  "kind": "match",
+  "game": null,
+  "stage": "녹아웃 8강 Day3",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "eDSvdMJrfws",
+  "published": "2026-11-06T23:16:00+00:00",
+  "a": "t1",
+  "b": "kc",
+  "kind": "game",
+  "game": 1,
+  "stage": "녹아웃 8강 Day4",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "vycXZPvZvJ0",
+  "published": "2026-11-07T00:28:00+00:00",
+  "a": "t1",
+  "b": "kc",
+  "kind": "game",
+  "game": 2,
+  "stage": "녹아웃 8강 Day4",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "RHmcQbYh-RU",
+  "published": "2026-11-07T01:28:00+00:00",
+  "a": "t1",
+  "b": "kc",
+  "kind": "game",
+  "game": 3,
+  "stage": "녹아웃 8강 Day4",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "FmtnVnrbeAE",
+  "published": "2026-11-07T02:25:00+00:00",
+  "a": "t1",
+  "b": "kc",
+  "kind": "game",
+  "game": 4,
+  "stage": "녹아웃 8강 Day4",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "q08cYDauM2k",
+  "published": "2026-11-07T02:40:00+00:00",
+  "a": "t1",
+  "b": "kc",
+  "kind": "match",
+  "game": null,
+  "stage": "녹아웃 8강 Day4",
+  "event": "2026 월드 챔피언십"
+ }
+]

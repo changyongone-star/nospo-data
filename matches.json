@@ -1,0 +1,445 @@
+[
+ {
+  "matchId": "m-3ac85e175a",
+  "date": "2026-11-07",
+  "league": "월즈 녹아웃 8강",
+  "teamA": "t1",
+  "teamB": "kc",
+  "bestOf": 5,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "eDSvdMJrfws"
+   },
+   {
+    "setNo": 2,
+    "videoId": "vycXZPvZvJ0"
+   },
+   {
+    "setNo": 3,
+    "videoId": "RHmcQbYh-RU"
+   },
+   {
+    "setNo": 4,
+    "videoId": "FmtnVnrbeAE"
+   },
+   {
+    "setNo": 5,
+    "videoId": null
+   }
+  ]
+ },
+ {
+  "matchId": "m-e57bc53868",
+  "date": "2026-11-06",
+  "league": "월즈 녹아웃 8강",
+  "teamA": "dk",
+  "teamB": "blg",
+  "bestOf": 5,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "lyhJoGKKaOc"
+   },
+   {
+    "setNo": 2,
+    "videoId": "Ob_bvHQ8kgA"
+   },
+   {
+    "setNo": 3,
+    "videoId": "99lMm4kPg0o"
+   },
+   {
+    "setNo": 4,
+    "videoId": null
+   },
+   {
+    "setNo": 5,
+    "videoId": null
+   }
+  ]
+ },
+ {
+  "matchId": "m-1d2691c60d",
+  "date": "2026-11-05",
+  "league": "월즈 녹아웃 8강",
+  "teamA": "gen",
+  "teamB": "lyon",
+  "bestOf": 5,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "zEbNYJKGGZY"
+   },
+   {
+    "setNo": 2,
+    "videoId": "CUJpJIngEQ8"
+   },
+   {
+    "setNo": 3,
+    "videoId": "enjWZVxWA0Q"
+   },
+   {
+    "setNo": 4,
+    "videoId": null
+   },
+   {
+    "setNo": 5,
+    "videoId": null
+   }
+  ]
+ },
+ {
+  "matchId": "m-20f964b7b2",
+  "date": "2026-11-04",
+  "league": "월즈 녹아웃 8강",
+  "teamA": "ig",
+  "teamB": "tes",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "HQWlsD-zCNw"
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d8-blg-hle",
+  "date": "2026-11-01",
+  "league": "월즈 스위스",
+  "teamA": "hle",
+  "teamB": "blg",
+  "bestOf": 5,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "cnAIXp23rGQ"
+   },
+   {
+    "setNo": 2,
+    "videoId": "JiMGn1UECdM"
+   },
+   {
+    "setNo": 3,
+    "videoId": null
+   },
+   {
+    "setNo": 4,
+    "videoId": null
+   },
+   {
+    "setNo": 5,
+    "videoId": null
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d8-lyon-los",
+  "date": "2026-11-01",
+  "league": "월즈 스위스",
+  "teamA": "los",
+  "teamB": "lyon",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "gGNDFbzcOKE"
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d8-kc-mkoi",
+  "date": "2026-11-01",
+  "league": "월즈 스위스",
+  "teamA": "kc",
+  "teamB": "mkoi",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "rIIsWR6VCVA"
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d7-g2-hle",
+  "date": "2026-10-31",
+  "league": "월즈 스위스",
+  "teamA": "hle",
+  "teamB": "g2",
+  "bestOf": 5,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "PcrXCZYo_58"
+   },
+   {
+    "setNo": 2,
+    "videoId": "U-OfzmA2XL0"
+   },
+   {
+    "setNo": 3,
+    "videoId": null
+   },
+   {
+    "setNo": 4,
+    "videoId": null
+   },
+   {
+    "setNo": 5,
+    "videoId": null
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d7-los-tlaw",
+  "date": "2026-10-31",
+  "league": "월즈 스위스",
+  "teamA": "los",
+  "teamB": "tlaw",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "DfREsQcIZKw"
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d6-blg-tes",
+  "date": "2026-10-30",
+  "league": "월즈 스위스",
+  "teamA": "blg",
+  "teamB": "tes",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "NMM_65YJEOE"
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d6-kc-cfo",
+  "date": "2026-10-30",
+  "league": "월즈 스위스",
+  "teamA": "cfo",
+  "teamB": "kc",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "yLc14tqnsjQ"
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d5-t1-mkoi",
+  "date": "2026-10-29",
+  "league": "월즈 스위스",
+  "teamA": "t1",
+  "teamB": "mkoi",
+  "bestOf": 5,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "h1H5dn84sGs"
+   },
+   {
+    "setNo": 2,
+    "videoId": "YQChSt601Wc"
+   },
+   {
+    "setNo": 3,
+    "videoId": null
+   },
+   {
+    "setNo": 4,
+    "videoId": null
+   },
+   {
+    "setNo": 5,
+    "videoId": null
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d5-lyon-ig",
+  "date": "2026-10-29",
+  "league": "월즈 스위스",
+  "teamA": "ig",
+  "teamB": "lyon",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "JMNfeb7BDyk"
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d4-t1-cfo",
+  "date": "2026-10-27",
+  "league": "월즈 스위스",
+  "teamA": "t1",
+  "teamB": "cfo",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "NlJh4nxfcfY"
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d4-blg-kc",
+  "date": "2026-10-27",
+  "league": "월즈 스위스",
+  "teamA": "blg",
+  "teamB": "kc",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "JZmSpm2VREw"
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d4-al-tlaw",
+  "date": "2026-10-27",
+  "league": "월즈 스위스",
+  "teamA": "al",
+  "teamB": "tlaw",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "tbJTPrs4Ul4"
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d4-tsw-los",
+  "date": "2026-10-27",
+  "league": "월즈 스위스",
+  "teamA": "los",
+  "teamB": "tsw",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "M-CtnJD-Bjk"
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d3-gen-lyon",
+  "date": "2026-10-26",
+  "league": "월즈 스위스",
+  "teamA": "gen",
+  "teamB": "lyon",
+  "bestOf": 5,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "bxjliFE6OBQ"
+   },
+   {
+    "setNo": 2,
+    "videoId": "1CtFoo0m_F4"
+   },
+   {
+    "setNo": 3,
+    "videoId": "RMnJglOdiwE"
+   },
+   {
+    "setNo": 4,
+    "videoId": null
+   },
+   {
+    "setNo": 5,
+    "videoId": null
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d3-dk-mkoi",
+  "date": "2026-10-26",
+  "league": "월즈 스위스",
+  "teamA": "dk",
+  "teamB": "mkoi",
+  "bestOf": 5,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "yfC5vSjiJos"
+   },
+   {
+    "setNo": 2,
+    "videoId": "q4T4DD_SXVg"
+   },
+   {
+    "setNo": 3,
+    "videoId": null
+   },
+   {
+    "setNo": 4,
+    "videoId": null
+   },
+   {
+    "setNo": 5,
+    "videoId": null
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d3-ig-hle",
+  "date": "2026-10-26",
+  "league": "월즈 스위스",
+  "teamA": "hle",
+  "teamB": "ig",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "kIR2Akhyo4g"
+   }
+  ]
+ },
+ {
+  "matchId": "w26-d3-tes-g2",
+  "date": "2026-10-26",
+  "league": "월즈 스위스",
+  "teamA": "g2",
+  "teamB": "tes",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "aCSoqrtvx3o"
+   }
+  ]
+ }
+]

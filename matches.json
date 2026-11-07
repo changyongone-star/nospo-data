@@ -43,7 +43,23 @@
   "sets": [
    {
     "setNo": 1,
-    "videoId": "wCS7KZ6LRqo"
+    "videoId": "GYNWLKOxSfo"
+   }
+  ]
+ },
+ {
+  "matchId": "m-f069977f14",
+  "leagueId": "kleague",
+  "date": "2026-11-07",
+  "league": "K리그1 35R",
+  "teamA": "kleague:김천",
+  "teamB": "kleague:안양",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "66PgYIVie_Q"
    }
   ]
  },

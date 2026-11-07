@@ -344,5 +344,29 @@
   "stage": "35R",
   "event": "K리그1",
   "quality": 2
+ },
+ {
+  "id": "aHTwnlju7RE",
+  "published": "2026-11-07T21:00:00+00:00",
+  "leagueId": "epl",
+  "a": "epl:아스날",
+  "b": "epl:헐 시티",
+  "unit": "single",
+  "n": null,
+  "stage": "10R",
+  "event": "프리미어리그",
+  "quality": 1
+ },
+ {
+  "id": "2pDSomfIIjc",
+  "published": "2026-11-07T18:30:17+00:00",
+  "leagueId": "epl",
+  "a": "epl:리즈",
+  "b": "epl:토트넘",
+  "unit": "single",
+  "n": null,
+  "stage": "10R",
+  "event": "프리미어리그",
+  "quality": 1
  }
 ]

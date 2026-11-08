@@ -100,7 +100,7 @@
  },
  {
   "id": "eDSvdMJrfws",
-  "published": "2026-11-06T23:16:18Z",
+  "published": "2026-11-06T23:16:18+00:00",
   "leagueId": "lol",
   "a": "t1",
   "b": "kc",
@@ -111,7 +111,7 @@
  },
  {
   "id": "vycXZPvZvJ0",
-  "published": "2026-11-07T00:28:29Z",
+  "published": "2026-11-07T00:28:29+00:00",
   "leagueId": "lol",
   "a": "t1",
   "b": "kc",
@@ -122,7 +122,7 @@
  },
  {
   "id": "RHmcQbYh-RU",
-  "published": "2026-11-07T01:28:38Z",
+  "published": "2026-11-07T01:28:38+00:00",
   "leagueId": "lol",
   "a": "t1",
   "b": "kc",
@@ -133,7 +133,7 @@
  },
  {
   "id": "FmtnVnrbeAE",
-  "published": "2026-11-07T02:25:37Z",
+  "published": "2026-11-07T02:25:37+00:00",
   "leagueId": "lol",
   "a": "t1",
   "b": "kc",
@@ -144,7 +144,7 @@
  },
  {
   "id": "q08cYDauM2k",
-  "published": "2026-11-07T02:40:33Z",
+  "published": "2026-11-07T02:40:33+00:00",
   "leagueId": "lol",
   "a": "t1",
   "b": "kc",
@@ -155,7 +155,7 @@
  },
  {
   "id": "IT67rwYSXvA",
-  "published": "2026-11-07T08:49:53Z",
+  "published": "2026-11-07T08:49:53+00:00",
   "leagueId": "kbo",
   "a": "kbo-kt",
   "b": "kbo-samsung",
@@ -163,11 +163,11 @@
   "n": 4,
   "stage": "한국시리즈",
   "event": "2026 신한 SOL KBO 한국시리즈",
-  "dateStr": "2026/11/7"
+  "dateStr": "11/7"
  },
  {
   "id": "XSiyIVftn8s",
-  "published": "2026-11-06T18:00:14Z",
+  "published": "2026-11-06T18:00:14+00:00",
   "leagueId": "kbl",
   "a": "kbl-kgc",
   "b": "kbl-sk",
@@ -179,7 +179,7 @@
  },
  {
   "id": "4PR9g8KArTo",
-  "published": "2026-11-06T12:41:45Z",
+  "published": "2026-11-06T12:41:45+00:00",
   "leagueId": "kbo",
   "a": "kbo-kt",
   "b": "kbo-samsung",
@@ -187,11 +187,11 @@
   "n": 3,
   "stage": "한국시리즈",
   "event": "2026 신한 SOL KBO 한국시리즈",
-  "dateStr": "2026/11/6"
+  "dateStr": "11/6"
  },
  {
   "id": "gR2fFT9GaU4",
-  "published": "2026-11-05T18:00:37Z",
+  "published": "2026-11-05T18:00:37+00:00",
   "leagueId": "kbl",
   "a": "kbl-mobis",
   "b": "kbl-samsung",
@@ -203,7 +203,7 @@
  },
  {
   "id": "KVh6e3E22OU",
-  "published": "2026-11-05T01:34:15Z",
+  "published": "2026-11-05T01:34:15+00:00",
   "leagueId": "kbl",
   "a": "kbl-sk",
   "b": "kbl-kogas",
@@ -215,7 +215,7 @@
  },
  {
   "id": "yzTjqEbCn_s",
-  "published": "2026-11-04T14:17:40Z",
+  "published": "2026-11-04T14:17:40+00:00",
   "leagueId": "kbo",
   "a": "kbo-samsung",
   "b": "kbo-kt",
@@ -227,7 +227,7 @@
  },
  {
   "id": "Okk7fj8lGQY",
-  "published": "2026-11-03T18:00:34Z",
+  "published": "2026-11-03T18:00:34+00:00",
   "leagueId": "kbl",
   "a": "kbl-kcc",
   "b": "kbl-sono",
@@ -239,7 +239,7 @@
  },
  {
   "id": "luegoydhdxE",
-  "published": "2026-11-03T13:36:15Z",
+  "published": "2026-11-03T13:36:15+00:00",
   "leagueId": "kbo",
   "a": "kbo-samsung",
   "b": "kbo-kt",
@@ -299,7 +299,7 @@
  },
  {
   "id": "0ua5XjCa4aE",
-  "published": "2026-11-07T15:30:29Z",
+  "published": "2026-11-07T15:30:29+00:00",
   "leagueId": "kbl",
   "a": "kbl-kt",
   "b": "kbl-kogas",
@@ -311,7 +311,7 @@
  },
  {
   "id": "JlbDhfQ4loc",
-  "published": "2026-11-07T13:00:22Z",
+  "published": "2026-11-07T13:00:22+00:00",
   "leagueId": "kbl",
   "a": "kbl-db",
   "b": "kbl-samsung",
@@ -323,7 +323,7 @@
  },
  {
   "id": "G7uR3clsxKM",
-  "published": "2026-11-07T13:00:15Z",
+  "published": "2026-11-07T13:00:15+00:00",
   "leagueId": "kbl",
   "a": "kbl-lg",
   "b": "kbl-sono",
@@ -371,7 +371,7 @@
  },
  {
   "id": "FTARtMIcEUQ",
-  "published": "2026-11-08T01:19:45Z",
+  "published": "2026-11-08T01:19:45+00:00",
   "leagueId": "lol",
   "a": "gen",
   "b": "ig",
@@ -382,7 +382,7 @@
  },
  {
   "id": "sYUfJCKB6PY",
-  "published": "2026-11-08T01:13:43Z",
+  "published": "2026-11-08T01:13:43+00:00",
   "leagueId": "lol",
   "a": "gen",
   "b": "ig",
@@ -393,7 +393,7 @@
  },
  {
   "id": "fhYondlFq8w",
-  "published": "2026-11-08T00:16:17Z",
+  "published": "2026-11-08T00:16:17+00:00",
   "leagueId": "lol",
   "a": "gen",
   "b": "ig",
@@ -404,7 +404,7 @@
  },
  {
   "id": "VrGmEJQj1TY",
-  "published": "2026-11-07T23:09:00Z",
+  "published": "2026-11-07T23:09:00+00:00",
   "leagueId": "lol",
   "a": "gen",
   "b": "ig",
@@ -531,6 +531,159 @@
   "n": null,
   "stage": "10R",
   "event": "프리미어리그",
+  "quality": 1
+ },
+ {
+  "id": "H8ydwy0nGOI",
+  "published": "2026-11-08T08:25:13+00:00",
+  "leagueId": "kbo",
+  "a": "kbo-kt",
+  "b": "kbo-samsung",
+  "unit": "game",
+  "n": 5,
+  "stage": "한국시리즈",
+  "event": "2026 신한 SOL KBO 한국시리즈",
+  "dateStr": "11/8"
+ },
+ {
+  "id": "D82TPs-fqR4",
+  "published": "2026-11-08T08:30:26+00:00",
+  "leagueId": "kleague",
+  "a": "kleague:대전",
+  "b": "kleague:인천",
+  "unit": "single",
+  "n": null,
+  "stage": "35R",
+  "event": "K리그1",
+  "quality": 1
+ },
+ {
+  "id": "RQDmuXIyPeE",
+  "published": "2026-11-08T08:30:10+00:00",
+  "leagueId": "kleague",
+  "a": "kleague:서울",
+  "b": "kleague:울산",
+  "unit": "single",
+  "n": null,
+  "stage": "35R",
+  "event": "K리그1",
+  "quality": 1
+ },
+ {
+  "id": "_UX-g0axVCQ",
+  "published": "2026-11-08T06:36:52+00:00",
+  "leagueId": "nba",
+  "a": "nba-orl",
+  "b": "nba-gsw",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/7",
+  "quality": 2
+ },
+ {
+  "id": "nUVK3PN4f8s",
+  "published": "2026-11-08T06:08:47+00:00",
+  "leagueId": "nba",
+  "a": "nba-nyk",
+  "b": "nba-cle",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/7",
+  "quality": 2
+ },
+ {
+  "id": "RSMUC3aHIIk",
+  "published": "2026-11-08T05:56:22+00:00",
+  "leagueId": "nba",
+  "a": "nba-sas",
+  "b": "nba-por",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/7",
+  "quality": 1
+ },
+ {
+  "id": "4ssDccjpiPU",
+  "published": "2026-11-08T04:51:30+00:00",
+  "leagueId": "nba",
+  "a": "nba-orl",
+  "b": "nba-gsw",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/7",
+  "quality": 1
+ },
+ {
+  "id": "LTm7IPWNZYU",
+  "published": "2026-11-08T04:45:52+00:00",
+  "leagueId": "nba",
+  "a": "nba-hou",
+  "b": "nba-phx",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/7",
+  "quality": 1
+ },
+ {
+  "id": "4bs19BIY_VI",
+  "published": "2026-11-08T03:56:32+00:00",
+  "leagueId": "nba",
+  "a": "nba-was",
+  "b": "nba-okc",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/7",
+  "quality": 1
+ },
+ {
+  "id": "s-moVu73XM0",
+  "published": "2026-11-08T03:51:11+00:00",
+  "leagueId": "nba",
+  "a": "nba-nyk",
+  "b": "nba-cle",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/7",
+  "quality": 1
+ },
+ {
+  "id": "_vBCHO-6KzM",
+  "published": "2026-11-08T03:42:08+00:00",
+  "leagueId": "nba",
+  "a": "nba-bkn",
+  "b": "nba-atl",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/7",
+  "quality": 1
+ },
+ {
+  "id": "1-yDggSIG34",
+  "published": "2026-11-08T00:46:26+00:00",
+  "leagueId": "nba",
+  "a": "nba-den",
+  "b": "nba-ind",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/7",
   "quality": 1
  }
 ]

@@ -80,6 +80,38 @@
   ]
  },
  {
+  "matchId": "m-0e20742022",
+  "leagueId": "kleague",
+  "date": "2026-11-08",
+  "league": "K리그1 35R",
+  "teamA": "kleague:대전",
+  "teamB": "kleague:인천",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "D82TPs-fqR4"
+   }
+  ]
+ },
+ {
+  "matchId": "m-7395047678",
+  "leagueId": "kleague",
+  "date": "2026-11-08",
+  "league": "K리그1 35R",
+  "teamA": "kleague:서울",
+  "teamB": "kleague:울산",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "RQDmuXIyPeE"
+   }
+  ]
+ },
+ {
   "matchId": "m-3ac85e175a",
   "leagueId": "lol",
   "date": "2026-11-07",
@@ -188,6 +220,118 @@
    {
     "setNo": 1,
     "videoId": "G7uR3clsxKM"
+   }
+  ]
+ },
+ {
+  "matchId": "m-a0e87baab8",
+  "leagueId": "nba",
+  "date": "2026-11-07",
+  "league": "NBA",
+  "teamA": "nba-gsw",
+  "teamB": "nba-orl",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "_UX-g0axVCQ"
+   }
+  ]
+ },
+ {
+  "matchId": "m-791b1ff8e1",
+  "leagueId": "nba",
+  "date": "2026-11-07",
+  "league": "NBA",
+  "teamA": "nba-cle",
+  "teamB": "nba-nyk",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "nUVK3PN4f8s"
+   }
+  ]
+ },
+ {
+  "matchId": "m-16b5ace9a3",
+  "leagueId": "nba",
+  "date": "2026-11-07",
+  "league": "NBA",
+  "teamA": "nba-por",
+  "teamB": "nba-sas",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "RSMUC3aHIIk"
+   }
+  ]
+ },
+ {
+  "matchId": "m-21bbdbbe8a",
+  "leagueId": "nba",
+  "date": "2026-11-07",
+  "league": "NBA",
+  "teamA": "nba-hou",
+  "teamB": "nba-phx",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "LTm7IPWNZYU"
+   }
+  ]
+ },
+ {
+  "matchId": "m-1346a7e96e",
+  "leagueId": "nba",
+  "date": "2026-11-07",
+  "league": "NBA",
+  "teamA": "nba-okc",
+  "teamB": "nba-was",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "4bs19BIY_VI"
+   }
+  ]
+ },
+ {
+  "matchId": "m-1f6cda8f12",
+  "leagueId": "nba",
+  "date": "2026-11-07",
+  "league": "NBA",
+  "teamA": "nba-atl",
+  "teamB": "nba-bkn",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "_vBCHO-6KzM"
+   }
+  ]
+ },
+ {
+  "matchId": "m-a45c694c33",
+  "leagueId": "nba",
+  "date": "2026-11-07",
+  "league": "NBA",
+  "teamA": "nba-den",
+  "teamB": "nba-ind",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "1-yDggSIG34"
    }
   ]
  },
@@ -347,7 +491,7 @@
    },
    {
     "setNo": 5,
-    "videoId": null
+    "videoId": "H8ydwy0nGOI"
    },
    {
     "setNo": 6,

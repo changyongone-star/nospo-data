@@ -10,6 +10,7 @@ const SOURCES = [
   { name: 'LCK', channel: 'UCw1DsweY9b2AKGjV4kGJP1A', parse: parseLol },
   { name: 'TVING SPORTS', channel: 'UC8JtQf77wqhVpOQ8Cze8JjA', parse: parseTving },
   { name: '쿠팡플레이 스포츠', channel: 'UCnBht7BrOx-A328KFXgysqQ', parse: parseCoupang },
+  { name: 'NBA', channel: 'UCWJ2lWNubArHWmf3FIHbfcQ', parse: parseNba },
 ];
 const KEEP_VIDEO_DAYS = 30; // 유튜브 데이터 보관 30일 원칙
 const KEEP_MATCH_DAYS = 120;
@@ -92,6 +93,40 @@ const kstDate = (iso) => new Date(Date.parse(iso) + 9 * 3600e3).toISOString().sl
 const hashId = (s) => 'm-' + createHash('sha1').update(s).digest('hex').slice(0, 10);
 
 /** 제목 속 날짜(2026/11/7, 11/7)를 YYYY-MM-DD로. 없으면 업로드 날짜 */
+// NBA 공식 채널: "[EXTENDED: ]TRAIL BLAZERS at LAKERS | [EMIRATES NBA CUP 🏆 | ]FULL GAME HIGHLIGHTS | November 6, 2026"
+// 풀게임 하이라이트만 쓴다 (다른 영상 제목은 기록·결과를 담고 있어서 제외)
+const NBA = {
+  HAWKS: 'atl', CELTICS: 'bos', NETS: 'bkn', HORNETS: 'cha', BULLS: 'chi', CAVALIERS: 'cle', MAVERICKS: 'dal', NUGGETS: 'den',
+  PISTONS: 'det', WARRIORS: 'gsw', ROCKETS: 'hou', PACERS: 'ind', CLIPPERS: 'lac', LAKERS: 'lal', GRIZZLIES: 'mem', HEAT: 'mia',
+  BUCKS: 'mil', TIMBERWOLVES: 'min', PELICANS: 'nop', KNICKS: 'nyk', THUNDER: 'okc', MAGIC: 'orl', '76ERS': 'phi', SUNS: 'phx',
+  'TRAIL BLAZERS': 'por', KINGS: 'sac', SPURS: 'sas', RAPTORS: 'tor', JAZZ: 'uta', WIZARDS: 'was',
+};
+const MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'];
+export function parseNba(title) {
+  const parts = title.split('|').map((s) => s.trim());
+  if (!parts.some((p) => /^FULL GAME HIGHLIGHTS$/i.test(p))) return null;
+  const extended = /^EXTENDED:\s*/i.test(parts[0]);
+  const m = parts[0].replace(/^EXTENDED:\s*/i, '').match(/^(.+?)\s+(?:at|vs\.?)\s+(.+)$/i);
+  if (!m) return null;
+  const a = NBA[m[1].trim().toUpperCase()];
+  const b = NBA[m[2].trim().toUpperCase()];
+  if (!a || !b) return null;
+  const d = parts[parts.length - 1].match(/^([A-Za-z]+)\s+(\d{1,2}),\s*(\d{4})$/);
+  const mon = d ? MONTHS.indexOf(d[1].toLowerCase()) + 1 : 0;
+  const cup = parts.some((p) => /NBA CUP/i.test(p));
+  return {
+    leagueId: 'nba',
+    a: `nba-${a}`,
+    b: `nba-${b}`,
+    unit: 'single',
+    n: null,
+    stage: cup ? 'NBA컵' : '',
+    event: 'NBA',
+    dateStr: mon ? `${d[3]}/${mon}/${d[2]}` : undefined,
+    quality: extended ? 2 : 1, // 확장판 우선
+  };
+}
+
 function gameDate(v) {
   const pub = kstDate(v.published);
   const s = v.dateStr ?? '';
@@ -121,7 +156,7 @@ async function fetchChannel(src) {
   const key = process.env.YT_API_KEY;
   if (!key) throw new Error(errors.join(' / ') + ' (YT_API_KEY 없음)');
   for (const pl of [`UULF${src.channel.slice(2)}`, `UU${src.channel.slice(2)}`]) {
-    const url = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&maxResults=30&playlistId=${pl}&key=${key}`;
+    const url = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&maxResults=50&playlistId=${pl}&key=${key}`;
     const res = await fetch(url);
     if (!res.ok) {
       errors.push(`API HTTP ${res.status}`);
@@ -170,6 +205,7 @@ const leagueLabel = (v) => {
   }
   if (v.leagueId === 'kbo') return v.stage ? `KBO ${v.stage}` : 'KBO 리그';
   if (v.leagueId === 'kbl') return 'KBL';
+  if (v.leagueId === 'nba') return v.stage ? `NBA · ${v.stage}` : 'NBA';
   if (v.leagueId === 'epl') return `프리미어리그 ${v.stage}`;
   if (v.leagueId === 'kleague') return `K리그1 ${v.stage}`;
   return v.event;

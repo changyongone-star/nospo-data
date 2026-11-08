@@ -102,6 +102,46 @@ function gameDate(v) {
   return pub;
 }
 
+/**
+ * 채널의 최신 영상 목록. 1) 유튜브 RSS (키 불필요)  2) RSS가 막히면 YouTube Data API (YT_API_KEY 필요)
+ * 둘 다 공식 제공 방식이며, 제목·영상 ID·게시 시각만 사용한다.
+ */
+async function fetchChannel(src) {
+  const ua = { 'user-agent': 'nospo-sports-updater' };
+  const errors = [];
+  for (const url of [feedUrl(src.channel), `https://www.youtube.com/feeds/videos.xml?channel_id=${src.channel}`]) {
+    try {
+      const res = await fetch(url, { headers: ua });
+      if (!res.ok) throw new Error(`RSS HTTP ${res.status}`);
+      return parseFeed(await res.text(), src.parse);
+    } catch (e) {
+      errors.push(e.message);
+    }
+  }
+  const key = process.env.YT_API_KEY;
+  if (!key) throw new Error(errors.join(' / ') + ' (YT_API_KEY 없음)');
+  for (const pl of [`UULF${src.channel.slice(2)}`, `UU${src.channel.slice(2)}`]) {
+    const url = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&maxResults=30&playlistId=${pl}&key=${key}`;
+    const res = await fetch(url);
+    if (!res.ok) {
+      errors.push(`API HTTP ${res.status}`);
+      continue;
+    }
+    const out = [];
+    for (const it of (await res.json()).items ?? []) {
+      const id = it.contentDetails?.videoId;
+      const title = it.snippet?.title;
+      const published = it.contentDetails?.videoPublishedAt ?? it.snippet?.publishedAt;
+      if (!id || !title || !published) continue;
+      const p = src.parse(title);
+      if (p) out.push({ id, published, ...p });
+    }
+    console.log(`[${src.name}] RSS 실패 → API로 ${out.length}개`);
+    return out;
+  }
+  throw new Error(errors.join(' / '));
+}
+
 function parseFeed(xml, parse) {
   const out = [];
   for (const e of xml.split('<entry>').slice(1)) {
@@ -153,9 +193,7 @@ async function main() {
   if (!process.env.OFFLINE) {
     for (const src of SOURCES) {
       try {
-        const res = await fetch(feedUrl(src.channel), { headers: { 'user-agent': 'nospo-sports-updater' } });
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        for (const v of parseFeed(await res.text(), src.parse)) {
+        for (const v of await fetchChannel(src)) {
           const i = videos.findIndex((x) => x.id === v.id);
           if (i >= 0) videos[i] = v;
           else videos.push(v);

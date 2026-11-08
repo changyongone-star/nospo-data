@@ -8,7 +8,8 @@
   "unit": "match",
   "n": null,
   "stage": "녹아웃 8강 Day1",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "zEbNYJKGGZY",
@@ -19,7 +20,8 @@
   "unit": "game",
   "n": 1,
   "stage": "녹아웃 8강 Day2",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "CUJpJIngEQ8",
@@ -30,7 +32,8 @@
   "unit": "game",
   "n": 2,
   "stage": "녹아웃 8강 Day2",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "enjWZVxWA0Q",
@@ -41,7 +44,8 @@
   "unit": "game",
   "n": 3,
   "stage": "녹아웃 8강 Day2",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "fcGG5H8fi3Q",
@@ -52,7 +56,8 @@
   "unit": "match",
   "n": null,
   "stage": "녹아웃 8강 Day2",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "lyhJoGKKaOc",
@@ -63,7 +68,8 @@
   "unit": "game",
   "n": 1,
   "stage": "녹아웃 8강 Day3",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "Ob_bvHQ8kgA",
@@ -74,7 +80,8 @@
   "unit": "game",
   "n": 2,
   "stage": "녹아웃 8강 Day3",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "99lMm4kPg0o",
@@ -85,7 +92,8 @@
   "unit": "game",
   "n": 3,
   "stage": "녹아웃 8강 Day3",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "NbvXmaYKLDI",
@@ -96,7 +104,8 @@
   "unit": "match",
   "n": null,
   "stage": "녹아웃 8강 Day3",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "eDSvdMJrfws",
@@ -107,7 +116,8 @@
   "unit": "game",
   "n": 1,
   "stage": "녹아웃 8강 Day4",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "vycXZPvZvJ0",
@@ -118,7 +128,8 @@
   "unit": "game",
   "n": 2,
   "stage": "녹아웃 8강 Day4",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "RHmcQbYh-RU",
@@ -129,7 +140,8 @@
   "unit": "game",
   "n": 3,
   "stage": "녹아웃 8강 Day4",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "FmtnVnrbeAE",
@@ -140,7 +152,8 @@
   "unit": "game",
   "n": 4,
   "stage": "녹아웃 8강 Day4",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "q08cYDauM2k",
@@ -151,7 +164,8 @@
   "unit": "match",
   "n": null,
   "stage": "녹아웃 8강 Day4",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "IT67rwYSXvA",
@@ -163,7 +177,8 @@
   "n": 4,
   "stage": "한국시리즈",
   "event": "2026 신한 SOL KBO 한국시리즈",
-  "dateStr": "11/7"
+  "dateStr": "11/7",
+  "emb": true
  },
  {
   "id": "XSiyIVftn8s",
@@ -175,7 +190,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "11/6"
+  "dateStr": "11/6",
+  "emb": true
  },
  {
   "id": "4PR9g8KArTo",
@@ -187,7 +203,8 @@
   "n": 3,
   "stage": "한국시리즈",
   "event": "2026 신한 SOL KBO 한국시리즈",
-  "dateStr": "11/6"
+  "dateStr": "11/6",
+  "emb": true
  },
  {
   "id": "gR2fFT9GaU4",
@@ -199,7 +216,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "11/5"
+  "dateStr": "11/5",
+  "emb": true
  },
  {
   "id": "KVh6e3E22OU",
@@ -211,7 +229,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "11/4"
+  "dateStr": "11/4",
+  "emb": true
  },
  {
   "id": "yzTjqEbCn_s",
@@ -223,7 +242,8 @@
   "n": 2,
   "stage": "한국시리즈",
   "event": "2026 신한 SOL KBO 한국시리즈",
-  "dateStr": "11/4"
+  "dateStr": "11/4",
+  "emb": true
  },
  {
   "id": "Okk7fj8lGQY",
@@ -235,7 +255,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "11/3"
+  "dateStr": "11/3",
+  "emb": true
  },
  {
   "id": "luegoydhdxE",
@@ -247,7 +268,8 @@
   "n": 1,
   "stage": "한국시리즈",
   "event": "2026 신한 SOL KBO 한국시리즈",
-  "dateStr": "11/3"
+  "dateStr": "11/3",
+  "emb": true
  },
  {
   "id": "9KaztYrdW9A",
@@ -259,7 +281,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "11/2"
+  "dateStr": "11/2",
+  "emb": true
  },
  {
   "id": "wCS7KZ6LRqo",
@@ -271,7 +294,8 @@
   "n": null,
   "stage": "35R",
   "event": "K리그1",
-  "quality": 1
+  "quality": 1,
+  "emb": true
  },
  {
   "id": "GYNWLKOxSfo",
@@ -283,7 +307,8 @@
   "n": null,
   "stage": "35R",
   "event": "K리그1",
-  "quality": 2
+  "quality": 2,
+  "emb": true
  },
  {
   "id": "66PgYIVie_Q",
@@ -295,7 +320,8 @@
   "n": null,
   "stage": "35R",
   "event": "K리그1",
-  "quality": 1
+  "quality": 1,
+  "emb": true
  },
  {
   "id": "0ua5XjCa4aE",
@@ -307,7 +333,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "11/7"
+  "dateStr": "11/7",
+  "emb": true
  },
  {
   "id": "JlbDhfQ4loc",
@@ -319,7 +346,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "11/7"
+  "dateStr": "11/7",
+  "emb": true
  },
  {
   "id": "G7uR3clsxKM",
@@ -331,7 +359,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "11/7"
+  "dateStr": "11/7",
+  "emb": true
  },
  {
   "id": "jIJKw4wm-Mg",
@@ -343,7 +372,8 @@
   "n": null,
   "stage": "35R",
   "event": "K리그1",
-  "quality": 2
+  "quality": 2,
+  "emb": true
  },
  {
   "id": "aHTwnlju7RE",
@@ -355,7 +385,8 @@
   "n": null,
   "stage": "10R",
   "event": "프리미어리그",
-  "quality": 1
+  "quality": 1,
+  "emb": true
  },
  {
   "id": "2pDSomfIIjc",
@@ -367,7 +398,8 @@
   "n": null,
   "stage": "10R",
   "event": "프리미어리그",
-  "quality": 1
+  "quality": 1,
+  "emb": true
  },
  {
   "id": "FTARtMIcEUQ",
@@ -378,7 +410,8 @@
   "unit": "match",
   "n": null,
   "stage": "녹아웃 4강 Day5",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "sYUfJCKB6PY",
@@ -389,7 +422,8 @@
   "unit": "game",
   "n": 3,
   "stage": "녹아웃 4강 Day5",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "fhYondlFq8w",
@@ -400,7 +434,8 @@
   "unit": "game",
   "n": 2,
   "stage": "녹아웃 4강 Day5",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "VrGmEJQj1TY",
@@ -411,7 +446,8 @@
   "unit": "game",
   "n": 1,
   "stage": "녹아웃 4강 Day5",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "emb": true
  },
  {
   "id": "zan-Vo_SrM0",
@@ -423,7 +459,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "11/1"
+  "dateStr": "11/1",
+  "emb": true
  },
  {
   "id": "Q7BhITexXJ0",
@@ -435,7 +472,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "11/1"
+  "dateStr": "11/1",
+  "emb": true
  },
  {
   "id": "tGnU074Me1E",
@@ -447,7 +485,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "11/1"
+  "dateStr": "11/1",
+  "emb": true
  },
  {
   "id": "IT2iLKT3a6c",
@@ -459,7 +498,8 @@
   "n": 5,
   "stage": "플레이오프",
   "event": "2026 신한 SOL KBO 포스트시즌",
-  "dateStr": "11/1"
+  "dateStr": "11/1",
+  "emb": true
  },
  {
   "id": "8QROiX4CLgo",
@@ -471,7 +511,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "10/31"
+  "dateStr": "10/31",
+  "emb": true
  },
  {
   "id": "OG1_WuGyMTc",
@@ -483,7 +524,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "10/31"
+  "dateStr": "10/31",
+  "emb": true
  },
  {
   "id": "oEEcuBFPST8",
@@ -495,7 +537,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "10/31"
+  "dateStr": "10/31",
+  "emb": true
  },
  {
   "id": "H_aXpHDJvsk",
@@ -507,7 +550,8 @@
   "n": null,
   "stage": "",
   "event": "2026-27 KCC 프로농구",
-  "dateStr": "10/30"
+  "dateStr": "10/30",
+  "emb": true
  },
  {
   "id": "ejMdL3m6Dpc",
@@ -519,7 +563,8 @@
   "n": 4,
   "stage": "플레이오프",
   "event": "2026 신한 SOL KBO 포스트시즌",
-  "dateStr": "10/30"
+  "dateStr": "10/30",
+  "emb": true
  },
  {
   "id": "U1F1ZSWGiwk",
@@ -531,7 +576,8 @@
   "n": null,
   "stage": "10R",
   "event": "프리미어리그",
-  "quality": 1
+  "quality": 1,
+  "emb": true
  },
  {
   "id": "H8ydwy0nGOI",
@@ -543,7 +589,8 @@
   "n": 5,
   "stage": "한국시리즈",
   "event": "2026 신한 SOL KBO 한국시리즈",
-  "dateStr": "11/8"
+  "dateStr": "11/8",
+  "emb": true
  },
  {
   "id": "D82TPs-fqR4",
@@ -555,7 +602,8 @@
   "n": null,
   "stage": "35R",
   "event": "K리그1",
-  "quality": 1
+  "quality": 1,
+  "emb": true
  },
  {
   "id": "RQDmuXIyPeE",
@@ -567,7 +615,8 @@
   "n": null,
   "stage": "35R",
   "event": "K리그1",
-  "quality": 1
+  "quality": 1,
+  "emb": true
  },
  {
   "id": "_UX-g0axVCQ",
@@ -580,7 +629,8 @@
   "stage": "",
   "event": "NBA",
   "dateStr": "2026/11/7",
-  "quality": 2
+  "quality": 2,
+  "emb": false
  },
  {
   "id": "nUVK3PN4f8s",
@@ -593,7 +643,8 @@
   "stage": "",
   "event": "NBA",
   "dateStr": "2026/11/7",
-  "quality": 2
+  "quality": 2,
+  "emb": false
  },
  {
   "id": "RSMUC3aHIIk",
@@ -606,7 +657,8 @@
   "stage": "",
   "event": "NBA",
   "dateStr": "2026/11/7",
-  "quality": 1
+  "quality": 1,
+  "emb": false
  },
  {
   "id": "4ssDccjpiPU",
@@ -619,7 +671,8 @@
   "stage": "",
   "event": "NBA",
   "dateStr": "2026/11/7",
-  "quality": 1
+  "quality": 1,
+  "emb": false
  },
  {
   "id": "LTm7IPWNZYU",
@@ -632,7 +685,8 @@
   "stage": "",
   "event": "NBA",
   "dateStr": "2026/11/7",
-  "quality": 1
+  "quality": 1,
+  "emb": false
  },
  {
   "id": "4bs19BIY_VI",
@@ -645,7 +699,8 @@
   "stage": "",
   "event": "NBA",
   "dateStr": "2026/11/7",
-  "quality": 1
+  "quality": 1,
+  "emb": false
  },
  {
   "id": "s-moVu73XM0",
@@ -658,7 +713,8 @@
   "stage": "",
   "event": "NBA",
   "dateStr": "2026/11/7",
-  "quality": 1
+  "quality": 1,
+  "emb": false
  },
  {
   "id": "_vBCHO-6KzM",
@@ -671,7 +727,8 @@
   "stage": "",
   "event": "NBA",
   "dateStr": "2026/11/7",
-  "quality": 1
+  "quality": 1,
+  "emb": false
  },
  {
   "id": "1-yDggSIG34",
@@ -684,6 +741,7 @@
   "stage": "",
   "event": "NBA",
   "dateStr": "2026/11/7",
-  "quality": 1
+  "quality": 1,
+  "emb": false
  }
 ]

@@ -220,6 +220,33 @@ async function readJSON(path, fallback) {
   }
 }
 
+/** 다른 사이트에 넣어 재생할 수 있는 영상인지 (embeddable, 한국 지역 제한) — API 키가 있을 때만 확인 */
+async function checkEmbeddable(videos) {
+  const key = process.env.YT_API_KEY;
+  if (!key) return;
+  const todo = videos.filter((v) => v.emb === undefined);
+  for (let i = 0; i < todo.length; i += 50) {
+    const batch = todo.slice(i, i + 50);
+    const url = `https://www.googleapis.com/youtube/v3/videos?part=status,contentDetails&id=${batch.map((v) => v.id).join(',')}&key=${key}`;
+    try {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const items = new Map(((await res.json()).items ?? []).map((it) => [it.id, it]));
+      for (const v of batch) {
+        const it = items.get(v.id);
+        const rr = it?.contentDetails?.regionRestriction;
+        const regionOk = !rr || (!(rr.blocked ?? []).includes('KR') && (!rr.allowed || rr.allowed.includes('KR')));
+        v.emb = !!it && it.status?.embeddable !== false && regionOk;
+      }
+    } catch (e) {
+      console.error('[embed check] 실패:', e.message);
+      return;
+    }
+  }
+  const bad = videos.filter((v) => v.emb === false).length;
+  if (bad) console.log(`[embed check] 재생 불가 영상 ${bad}개 제외`);
+}
+
 async function main() {
   const now = Date.now();
   let videos = await readJSON('videos.json', []);
@@ -231,7 +258,7 @@ async function main() {
       try {
         for (const v of await fetchChannel(src)) {
           const i = videos.findIndex((x) => x.id === v.id);
-          if (i >= 0) videos[i] = v;
+          if (i >= 0) videos[i] = { ...v, emb: videos[i].emb };
           else videos.push(v);
         }
       } catch (e) {
@@ -240,10 +267,11 @@ async function main() {
     }
   }
   videos = videos.filter((v) => now - Date.parse(v.published) < KEEP_VIDEO_DAYS * 864e5);
+  await checkEmbeddable(videos);
 
   // 경기(또는 시리즈)별로 묶기
   const groups = new Map();
-  for (const v of videos) {
+  for (const v of videos.filter((x) => x.emb !== false)) {
     const [a, b] = pair(v.leagueId, v.a, v.b);
     // LoL은 예전 matchId와 같게 유지 (리그 접두어 없음)
     const prefix = v.leagueId === 'lol' ? '' : `${v.leagueId}|`;
@@ -292,7 +320,11 @@ async function main() {
   }
 
   for (const m of matches) m.leagueId ??= 'lol';
+  // 재생 불가 영상만 남은 경기는 목록에서 뺀다
+  const blocked = new Set(videos.filter((v) => v.emb === false).map((v) => v.id));
+  const playable = (m) => m.sets.some((x) => x.videoId && !blocked.has(x.videoId));
   const kept = matches
+    .filter(playable)
     .filter((m) => now - Date.parse(m.date) < KEEP_MATCH_DAYS * 864e5)
     .sort((x, y) => y.date.localeCompare(x.date));
   await writeFile('matches.json', JSON.stringify(kept, null, 1) + '\n');

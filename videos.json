@@ -860,5 +860,44 @@
   "event": "2026-27 KCC 프로농구",
   "dateStr": "11/8",
   "emb": true
+ },
+ {
+  "id": "_s3D0lcTo0U",
+  "published": "2026-11-08T22:00:32+00:00",
+  "leagueId": "epl",
+  "a": "epl:맨유",
+  "b": "epl:아스톤 빌라",
+  "unit": "single",
+  "n": null,
+  "stage": "10R",
+  "event": "프리미어리그",
+  "quality": 1,
+  "emb": true
+ },
+ {
+  "id": "x2A-VZYuYCg",
+  "published": "2026-11-08T20:00:36+00:00",
+  "leagueId": "epl",
+  "a": "epl:크리스탈 팰리스",
+  "b": "epl:리버풀",
+  "unit": "single",
+  "n": null,
+  "stage": "10R",
+  "event": "프리미어리그",
+  "quality": 1,
+  "emb": true
+ },
+ {
+  "id": "z-3ngxuWtto",
+  "published": "2026-11-08T20:00:11+00:00",
+  "leagueId": "epl",
+  "a": "epl:선덜랜드",
+  "b": "epl:첼시",
+  "unit": "single",
+  "n": null,
+  "stage": "10R",
+  "event": "프리미어리그",
+  "quality": 1,
+  "emb": true
  }
 ]

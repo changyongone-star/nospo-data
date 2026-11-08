@@ -176,6 +176,22 @@
   ]
  },
  {
+  "matchId": "m-600f7000bb",
+  "leagueId": "kbl",
+  "date": "2026-11-08",
+  "league": "KBL",
+  "teamA": "kbl-kcc",
+  "teamB": "kbl-lg",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "KfWS93mUjqE"
+   }
+  ]
+ },
+ {
   "matchId": "m-3ac85e175a",
   "leagueId": "lol",
   "date": "2026-11-07",

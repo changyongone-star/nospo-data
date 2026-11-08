@@ -847,5 +847,18 @@
   "event": "K리그1",
   "quality": 2,
   "emb": true
+ },
+ {
+  "id": "KfWS93mUjqE",
+  "published": "2026-11-08T15:30:06+00:00",
+  "leagueId": "kbl",
+  "a": "kbl-lg",
+  "b": "kbl-kcc",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "11/8",
+  "emb": true
  }
 ]

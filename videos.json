@@ -1,62 +1,62 @@
 [
  {
   "id": "HQWlsD-zCNw",
-  "published": "2026-11-04T01:00:00+00:00",
+  "published": "2026-11-04T03:25:40Z",
+  "leagueId": "lol",
   "a": "ig",
   "b": "tes",
-  "stage": "녹아웃 8강 Day1",
-  "event": "2026 월드 챔피언십",
-  "leagueId": "lol",
   "unit": "match",
-  "n": null
+  "n": null,
+  "stage": "녹아웃 8강 Day1",
+  "event": "2026 월드 챔피언십"
  },
  {
   "id": "zEbNYJKGGZY",
-  "published": "2026-11-04T22:00:00+00:00",
+  "published": "2026-11-04T23:09:31Z",
+  "leagueId": "lol",
   "a": "gen",
   "b": "lyon",
-  "stage": "녹아웃 8강 Day2",
-  "event": "2026 월드 챔피언십",
-  "leagueId": "lol",
   "unit": "game",
-  "n": 1
+  "n": 1,
+  "stage": "녹아웃 8강 Day2",
+  "event": "2026 월드 챔피언십"
  },
  {
   "id": "CUJpJIngEQ8",
-  "published": "2026-11-04T23:00:00+00:00",
+  "published": "2026-11-05T00:20:32Z",
+  "leagueId": "lol",
   "a": "gen",
   "b": "lyon",
-  "stage": "녹아웃 8강 Day2",
-  "event": "2026 월드 챔피언십",
-  "leagueId": "lol",
   "unit": "game",
-  "n": 2
+  "n": 2,
+  "stage": "녹아웃 8강 Day2",
+  "event": "2026 월드 챔피언십"
  },
  {
   "id": "enjWZVxWA0Q",
-  "published": "2026-11-04T24:00:00+00:00",
+  "published": "2026-11-05T01:17:58Z",
+  "leagueId": "lol",
   "a": "gen",
   "b": "lyon",
-  "stage": "녹아웃 8강 Day2",
-  "event": "2026 월드 챔피언십",
-  "leagueId": "lol",
   "unit": "game",
-  "n": 3
+  "n": 3,
+  "stage": "녹아웃 8강 Day2",
+  "event": "2026 월드 챔피언십"
  },
  {
   "id": "fcGG5H8fi3Q",
-  "published": "2026-11-05T01:30:00+00:00",
+  "published": "2026-11-05T01:28:06Z",
+  "leagueId": "lol",
   "a": "gen",
   "b": "lyon",
-  "stage": "녹아웃 8강 Day2",
-  "event": "2026 월드 챔피언십",
-  "leagueId": "lol",
   "unit": "match",
-  "n": null
+  "n": null,
+  "stage": "녹아웃 8강 Day2",
+  "event": "2026 월드 챔피언십"
  },
  {
   "id": "lyhJoGKKaOc",
-  "published": "2026-11-05T23:14:21+00:00",
+  "published": "2026-11-05T23:14:21Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "dk",
@@ -67,7 +67,7 @@
  },
  {
   "id": "Ob_bvHQ8kgA",
-  "published": "2026-11-06T00:19:31+00:00",
+  "published": "2026-11-06T00:19:31Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "dk",
@@ -78,7 +78,7 @@
  },
  {
   "id": "99lMm4kPg0o",
-  "published": "2026-11-06T01:00:19+00:00",
+  "published": "2026-11-06T01:00:19Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "dk",
@@ -89,7 +89,7 @@
  },
  {
   "id": "NbvXmaYKLDI",
-  "published": "2026-11-06T01:05:13+00:00",
+  "published": "2026-11-06T01:05:13Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "dk",
@@ -100,7 +100,7 @@
  },
  {
   "id": "eDSvdMJrfws",
-  "published": "2026-11-06T23:16:18+00:00",
+  "published": "2026-11-06T23:16:18Z",
   "leagueId": "lol",
   "a": "t1",
   "b": "kc",
@@ -111,7 +111,7 @@
  },
  {
   "id": "vycXZPvZvJ0",
-  "published": "2026-11-07T00:28:29+00:00",
+  "published": "2026-11-07T00:28:29Z",
   "leagueId": "lol",
   "a": "t1",
   "b": "kc",
@@ -122,7 +122,7 @@
  },
  {
   "id": "RHmcQbYh-RU",
-  "published": "2026-11-07T01:28:38+00:00",
+  "published": "2026-11-07T01:28:38Z",
   "leagueId": "lol",
   "a": "t1",
   "b": "kc",
@@ -133,7 +133,7 @@
  },
  {
   "id": "FmtnVnrbeAE",
-  "published": "2026-11-07T02:25:37+00:00",
+  "published": "2026-11-07T02:25:37Z",
   "leagueId": "lol",
   "a": "t1",
   "b": "kc",
@@ -144,7 +144,7 @@
  },
  {
   "id": "q08cYDauM2k",
-  "published": "2026-11-07T02:40:33+00:00",
+  "published": "2026-11-07T02:40:33Z",
   "leagueId": "lol",
   "a": "t1",
   "b": "kc",
@@ -155,7 +155,7 @@
  },
  {
   "id": "IT67rwYSXvA",
-  "published": "2026-11-07T08:49:53+00:00",
+  "published": "2026-11-07T08:49:53Z",
   "leagueId": "kbo",
   "a": "kbo-kt",
   "b": "kbo-samsung",
@@ -167,7 +167,7 @@
  },
  {
   "id": "XSiyIVftn8s",
-  "published": "2026-11-06T18:00:14+00:00",
+  "published": "2026-11-06T18:00:14Z",
   "leagueId": "kbl",
   "a": "kbl-kgc",
   "b": "kbl-sk",
@@ -179,7 +179,7 @@
  },
  {
   "id": "4PR9g8KArTo",
-  "published": "2026-11-06T12:41:45+00:00",
+  "published": "2026-11-06T12:41:45Z",
   "leagueId": "kbo",
   "a": "kbo-kt",
   "b": "kbo-samsung",
@@ -191,7 +191,7 @@
  },
  {
   "id": "gR2fFT9GaU4",
-  "published": "2026-11-05T18:00:37+00:00",
+  "published": "2026-11-05T18:00:37Z",
   "leagueId": "kbl",
   "a": "kbl-mobis",
   "b": "kbl-samsung",
@@ -203,7 +203,7 @@
  },
  {
   "id": "KVh6e3E22OU",
-  "published": "2026-11-05T01:34:15+00:00",
+  "published": "2026-11-05T01:34:15Z",
   "leagueId": "kbl",
   "a": "kbl-sk",
   "b": "kbl-kogas",
@@ -215,7 +215,7 @@
  },
  {
   "id": "yzTjqEbCn_s",
-  "published": "2026-11-04T14:17:40+00:00",
+  "published": "2026-11-04T14:17:40Z",
   "leagueId": "kbo",
   "a": "kbo-samsung",
   "b": "kbo-kt",
@@ -227,7 +227,7 @@
  },
  {
   "id": "Okk7fj8lGQY",
-  "published": "2026-11-03T18:00:34+00:00",
+  "published": "2026-11-03T18:00:34Z",
   "leagueId": "kbl",
   "a": "kbl-kcc",
   "b": "kbl-sono",
@@ -239,7 +239,7 @@
  },
  {
   "id": "luegoydhdxE",
-  "published": "2026-11-03T13:36:15+00:00",
+  "published": "2026-11-03T13:36:15Z",
   "leagueId": "kbo",
   "a": "kbo-samsung",
   "b": "kbo-kt",
@@ -251,7 +251,7 @@
  },
  {
   "id": "9KaztYrdW9A",
-  "published": "2026-11-02T18:00:17+00:00",
+  "published": "2026-11-02T18:00:17Z",
   "leagueId": "kbl",
   "a": "kbl-kogas",
   "b": "kbl-kgc",
@@ -275,7 +275,7 @@
  },
  {
   "id": "GYNWLKOxSfo",
-  "published": "2026-11-07T11:00:22+00:00",
+  "published": "2026-11-07T11:00:22Z",
   "leagueId": "kleague",
   "a": "kleague:제주",
   "b": "kleague:광주",
@@ -299,7 +299,7 @@
  },
  {
   "id": "0ua5XjCa4aE",
-  "published": "2026-11-07T15:30:29+00:00",
+  "published": "2026-11-07T15:30:29Z",
   "leagueId": "kbl",
   "a": "kbl-kt",
   "b": "kbl-kogas",
@@ -311,7 +311,7 @@
  },
  {
   "id": "JlbDhfQ4loc",
-  "published": "2026-11-07T13:00:22+00:00",
+  "published": "2026-11-07T13:00:22Z",
   "leagueId": "kbl",
   "a": "kbl-db",
   "b": "kbl-samsung",
@@ -323,7 +323,7 @@
  },
  {
   "id": "G7uR3clsxKM",
-  "published": "2026-11-07T13:00:15+00:00",
+  "published": "2026-11-07T13:00:15Z",
   "leagueId": "kbl",
   "a": "kbl-lg",
   "b": "kbl-sono",
@@ -335,7 +335,7 @@
  },
  {
   "id": "jIJKw4wm-Mg",
-  "published": "2026-11-07T13:30:17+00:00",
+  "published": "2026-11-07T13:30:17Z",
   "leagueId": "kleague",
   "a": "kleague:김천",
   "b": "kleague:안양",
@@ -347,7 +347,7 @@
  },
  {
   "id": "aHTwnlju7RE",
-  "published": "2026-11-07T21:00:00+00:00",
+  "published": "2026-11-07T21:00:00Z",
   "leagueId": "epl",
   "a": "epl:아스날",
   "b": "epl:헐 시티",
@@ -359,10 +359,174 @@
  },
  {
   "id": "2pDSomfIIjc",
-  "published": "2026-11-07T18:30:17+00:00",
+  "published": "2026-11-07T18:30:17Z",
   "leagueId": "epl",
   "a": "epl:리즈",
   "b": "epl:토트넘",
+  "unit": "single",
+  "n": null,
+  "stage": "10R",
+  "event": "프리미어리그",
+  "quality": 1
+ },
+ {
+  "id": "FTARtMIcEUQ",
+  "published": "2026-11-08T01:19:45Z",
+  "leagueId": "lol",
+  "a": "gen",
+  "b": "ig",
+  "unit": "match",
+  "n": null,
+  "stage": "녹아웃 4강 Day5",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "sYUfJCKB6PY",
+  "published": "2026-11-08T01:13:43Z",
+  "leagueId": "lol",
+  "a": "gen",
+  "b": "ig",
+  "unit": "game",
+  "n": 3,
+  "stage": "녹아웃 4강 Day5",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "fhYondlFq8w",
+  "published": "2026-11-08T00:16:17Z",
+  "leagueId": "lol",
+  "a": "gen",
+  "b": "ig",
+  "unit": "game",
+  "n": 2,
+  "stage": "녹아웃 4강 Day5",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "VrGmEJQj1TY",
+  "published": "2026-11-07T23:09:00Z",
+  "leagueId": "lol",
+  "a": "gen",
+  "b": "ig",
+  "unit": "game",
+  "n": 1,
+  "stage": "녹아웃 4강 Day5",
+  "event": "2026 월드 챔피언십"
+ },
+ {
+  "id": "zan-Vo_SrM0",
+  "published": "2026-11-01T15:30:13Z",
+  "leagueId": "kbl",
+  "a": "kbl-samsung",
+  "b": "kbl-sk",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "11/1"
+ },
+ {
+  "id": "Q7BhITexXJ0",
+  "published": "2026-11-01T13:00:31Z",
+  "leagueId": "kbl",
+  "a": "kbl-sono",
+  "b": "kbl-kt",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "11/1"
+ },
+ {
+  "id": "tGnU074Me1E",
+  "published": "2026-11-01T13:00:01Z",
+  "leagueId": "kbl",
+  "a": "kbl-lg",
+  "b": "kbl-db",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "11/1"
+ },
+ {
+  "id": "IT2iLKT3a6c",
+  "published": "2026-11-01T07:49:03Z",
+  "leagueId": "kbo",
+  "a": "kbo-kia",
+  "b": "kbo-samsung",
+  "unit": "game",
+  "n": 5,
+  "stage": "플레이오프",
+  "event": "2026 신한 SOL KBO 포스트시즌",
+  "dateStr": "11/1"
+ },
+ {
+  "id": "8QROiX4CLgo",
+  "published": "2026-10-31T15:30:27Z",
+  "leagueId": "kbl",
+  "a": "kbl-kogas",
+  "b": "kbl-mobis",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "10/31"
+ },
+ {
+  "id": "OG1_WuGyMTc",
+  "published": "2026-10-31T13:00:37Z",
+  "leagueId": "kbl",
+  "a": "kbl-kgc",
+  "b": "kbl-kt",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "10/31"
+ },
+ {
+  "id": "oEEcuBFPST8",
+  "published": "2026-10-31T13:00:20Z",
+  "leagueId": "kbl",
+  "a": "kbl-kcc",
+  "b": "kbl-db",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "10/31"
+ },
+ {
+  "id": "H_aXpHDJvsk",
+  "published": "2026-10-30T18:00:39Z",
+  "leagueId": "kbl",
+  "a": "kbl-sono",
+  "b": "kbl-samsung",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "10/30"
+ },
+ {
+  "id": "ejMdL3m6Dpc",
+  "published": "2026-10-30T12:51:08Z",
+  "leagueId": "kbo",
+  "a": "kbo-samsung",
+  "b": "kbo-kia",
+  "unit": "game",
+  "n": 4,
+  "stage": "플레이오프",
+  "event": "2026 신한 SOL KBO 포스트시즌",
+  "dateStr": "10/30"
+ },
+ {
+  "id": "U1F1ZSWGiwk",
+  "published": "2026-11-07T22:00:30Z",
+  "leagueId": "epl",
+  "a": "epl:노팅엄",
+  "b": "epl:맨시티",
   "unit": "single",
   "n": null,
   "stage": "10R",

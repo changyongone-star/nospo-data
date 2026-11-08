@@ -32,6 +32,54 @@
   ]
  },
  {
+  "matchId": "m-9d8d014a04",
+  "leagueId": "lol",
+  "date": "2026-11-08",
+  "league": "월즈 녹아웃 4강",
+  "teamA": "gen",
+  "teamB": "ig",
+  "bestOf": 5,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "VrGmEJQj1TY"
+   },
+   {
+    "setNo": 2,
+    "videoId": "fhYondlFq8w"
+   },
+   {
+    "setNo": 3,
+    "videoId": "sYUfJCKB6PY"
+   },
+   {
+    "setNo": 4,
+    "videoId": null
+   },
+   {
+    "setNo": 5,
+    "videoId": null
+   }
+  ]
+ },
+ {
+  "matchId": "m-0ed50a1bd3",
+  "leagueId": "epl",
+  "date": "2026-11-08",
+  "league": "프리미어리그 10R",
+  "teamA": "epl:노팅엄",
+  "teamB": "epl:맨시티",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "U1F1ZSWGiwk"
+   }
+  ]
+ },
+ {
   "matchId": "m-3ac85e175a",
   "leagueId": "lol",
   "date": "2026-11-07",
@@ -408,6 +456,54 @@
   "leagueId": "lol"
  },
  {
+  "matchId": "m-9f52aebc43",
+  "leagueId": "kbl",
+  "date": "2026-11-01",
+  "league": "KBL",
+  "teamA": "kbl-samsung",
+  "teamB": "kbl-sk",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "zan-Vo_SrM0"
+   }
+  ]
+ },
+ {
+  "matchId": "m-45c9314993",
+  "leagueId": "kbl",
+  "date": "2026-11-01",
+  "league": "KBL",
+  "teamA": "kbl-kt",
+  "teamB": "kbl-sono",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "Q7BhITexXJ0"
+   }
+  ]
+ },
+ {
+  "matchId": "m-98683ecffb",
+  "leagueId": "kbl",
+  "date": "2026-11-01",
+  "league": "KBL",
+  "teamA": "kbl-db",
+  "teamB": "kbl-lg",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "tGnU074Me1E"
+   }
+  ]
+ },
+ {
   "matchId": "w26-d7-g2-hle",
   "date": "2026-10-31",
   "league": "월즈 스위스",
@@ -456,6 +552,54 @@
   "leagueId": "lol"
  },
  {
+  "matchId": "m-a84fae22fc",
+  "leagueId": "kbl",
+  "date": "2026-10-31",
+  "league": "KBL",
+  "teamA": "kbl-kogas",
+  "teamB": "kbl-mobis",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "8QROiX4CLgo"
+   }
+  ]
+ },
+ {
+  "matchId": "m-603c75d1f6",
+  "leagueId": "kbl",
+  "date": "2026-10-31",
+  "league": "KBL",
+  "teamA": "kbl-kgc",
+  "teamB": "kbl-kt",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "OG1_WuGyMTc"
+   }
+  ]
+ },
+ {
+  "matchId": "m-ca1328b883",
+  "leagueId": "kbl",
+  "date": "2026-10-31",
+  "league": "KBL",
+  "teamA": "kbl-db",
+  "teamB": "kbl-kcc",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "oEEcuBFPST8"
+   }
+  ]
+ },
+ {
   "matchId": "w26-d6-blg-tes",
   "date": "2026-10-30",
   "league": "월즈 스위스",
@@ -486,6 +630,54 @@
    }
   ],
   "leagueId": "lol"
+ },
+ {
+  "matchId": "m-41c148a103",
+  "leagueId": "kbo",
+  "date": "2026-10-30",
+  "league": "KBO 플레이오프",
+  "teamA": "kbo-kia",
+  "teamB": "kbo-samsung",
+  "bestOf": 5,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": null
+   },
+   {
+    "setNo": 2,
+    "videoId": null
+   },
+   {
+    "setNo": 3,
+    "videoId": null
+   },
+   {
+    "setNo": 4,
+    "videoId": "ejMdL3m6Dpc"
+   },
+   {
+    "setNo": 5,
+    "videoId": "IT2iLKT3a6c"
+   }
+  ]
+ },
+ {
+  "matchId": "m-d9f3639c08",
+  "leagueId": "kbl",
+  "date": "2026-10-30",
+  "league": "KBL",
+  "teamA": "kbl-samsung",
+  "teamB": "kbl-sono",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "H_aXpHDJvsk"
+   }
+  ]
  },
  {
   "matchId": "w26-d5-t1-mkoi",

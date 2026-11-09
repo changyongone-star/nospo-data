@@ -1,27 +1,45 @@
 name: update-highlights
+# GitHub 예약 실행(schedule)은 몇 시간씩 밀릴 때가 많아서,
+# 한 번 실행되면 약 50분 동안 10분마다 갱신하고, 끝나기 전에 다음 실행을 스스로 예약한다.
+# 예약 실행은 체인이 끊겼을 때 다시 살리는 보조 장치.
 on:
   schedule:
-    - cron: '7,37 * * * *' # 30분마다
+    - cron: '7,37 * * * *'
   workflow_dispatch: {}
 permissions:
   contents: write
+  actions: write
+concurrency:
+  group: update-highlights
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 70
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: node scripts/update.mjs
+      - name: update every 10 minutes (5 rounds)
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
-      - name: commit
         run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git config user.name "nospo-bot"
-            git config user.email "nospo-bot@users.noreply.github.com"
-            git add matches.json videos.json
-            git commit -m "update highlights"
-            git push
-          fi
+          git config user.name "nospo-bot"
+          git config user.email "nospo-bot@users.noreply.github.com"
+          for round in 1 2 3 4 5; do
+            echo "== round $round $(date -u +%H:%M)"
+            git fetch --quiet origin main && git reset --quiet --hard origin/main
+            node scripts/update.mjs || echo "update failed (round $round)"
+            if [ -n "$(git status --porcelain matches.json videos.json)" ]; then
+              git add matches.json videos.json
+              git commit -m "update highlights" --quiet
+              git push --quiet || echo "push failed (다음 라운드에 다시 반영)"
+            fi
+            if [ "$round" -lt 5 ]; then sleep 600; fi
+          done
+      - name: schedule next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run update.yml --ref main -R "$GITHUB_REPOSITORY" || true

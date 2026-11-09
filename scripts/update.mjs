@@ -71,11 +71,11 @@ export function parseTving(title) {
   };
 }
 
-// [프리미어리그] 9R 첼시 vs 맨유 2분 하이라이트 / [K리그1] 34R 서울 vs 인천 풀 하이라이트
+// [프리미어리그] 9R 첼시 vs 맨유 2분 하이라이트 / [K리그1] 34R 서울 vs 인천 풀 하이라이트 / [라리가] 12R AT. 마드리드 vs 바르셀로나 2분 하이라이트
 export function parseCoupang(title) {
-  const m = title.match(/^\[(프리미어리그|K리그1)\]\s+(\S+)\s+(.+?) vs (.+?)\s+(풀|\d+분) 하이라이트$/);
+  const m = title.match(/^\[(프리미어리그|K리그1|라리가)\]\s+(\S+)\s+(.+?) vs (.+?)\s+(풀|\d+분) 하이라이트$/);
   if (!m) return null;
-  const leagueId = m[1] === '프리미어리그' ? 'epl' : 'kleague';
+  const leagueId = { 프리미어리그: 'epl', K리그1: 'kleague', 라리가: 'laliga' }[m[1]];
   return {
     leagueId,
     a: `${leagueId}:${m[3].trim()}`,
@@ -208,6 +208,7 @@ const leagueLabel = (v) => {
   if (v.leagueId === 'nba') return v.stage ? `NBA · ${v.stage}` : 'NBA';
   if (v.leagueId === 'epl') return `프리미어리그 ${v.stage}`;
   if (v.leagueId === 'kleague') return `K리그1 ${v.stage}`;
+  if (v.leagueId === 'laliga') return `라리가 ${v.stage}`;
   return v.event;
 };
 const SERIES_LEN = (v) => (v.leagueId === 'kbo' ? (/한국시리즈/.test(v.stage) ? 7 : /와일드카드/.test(v.stage) ? 3 : 5) : 5);

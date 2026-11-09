@@ -905,29 +905,32 @@
   "published": "2026-11-09T07:30:00+09:00",
   "a": "blg",
   "b": "t1",
-  "kind": "game",
-  "game": 1,
   "stage": "녹아웃 4강 Day6",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "leagueId": "lol",
+  "unit": "game",
+  "n": 1
  },
  {
   "id": "-ci-Ursh0XQ",
   "published": "2026-11-09T08:30:00+09:00",
   "a": "blg",
   "b": "t1",
-  "kind": "game",
-  "game": 2,
   "stage": "녹아웃 4강 Day6",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "leagueId": "lol",
+  "unit": "game",
+  "n": 2
  },
  {
   "id": "r503bsF16-o",
   "published": "2026-11-09T09:30:00+09:00",
   "a": "blg",
   "b": "t1",
-  "kind": "game",
-  "game": 3,
   "stage": "녹아웃 4강 Day6",
-  "event": "2026 월드 챔피언십"
+  "event": "2026 월드 챔피언십",
+  "leagueId": "lol",
+  "unit": "game",
+  "n": 3
  }
 ]

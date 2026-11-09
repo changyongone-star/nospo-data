@@ -304,6 +304,22 @@
   ]
  },
  {
+  "matchId": "m-7743eba696",
+  "leagueId": "laliga",
+  "date": "2026-11-08",
+  "league": "라리가 12R",
+  "teamA": "laliga:레알 마드리드",
+  "teamB": "laliga:발렌시아",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "e-IgLRfGuIo"
+   }
+  ]
+ },
+ {
   "matchId": "m-3ac85e175a",
   "leagueId": "lol",
   "date": "2026-11-07",

@@ -96,6 +96,22 @@
   ]
  },
  {
+  "matchId": "m-d3dc4a17c8",
+  "leagueId": "kbl",
+  "date": "2026-11-09",
+  "league": "KBL",
+  "teamA": "kbl-kt",
+  "teamB": "kbl-samsung",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "YnKWVN8QLJI"
+   }
+  ]
+ },
+ {
   "matchId": "m-379eee4622",
   "leagueId": "epl",
   "date": "2026-11-08",

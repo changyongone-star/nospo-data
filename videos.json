@@ -1455,5 +1455,18 @@
   "event": "라리가",
   "quality": 1,
   "emb": true
+ },
+ {
+  "id": "YnKWVN8QLJI",
+  "published": "2026-11-09T18:00:01+00:00",
+  "leagueId": "kbl",
+  "a": "kbl-samsung",
+  "b": "kbl-kt",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "11/9",
+  "emb": true
  }
 ]

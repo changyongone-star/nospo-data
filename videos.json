@@ -1442,5 +1442,18 @@
   "dateStr": "2026/11/8",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "-nzXchnkwoA",
+  "published": "2026-11-08T23:49:59+00:00",
+  "leagueId": "laliga",
+  "a": "laliga:AT. 마드리드",
+  "b": "laliga:바르셀로나",
+  "unit": "single",
+  "n": null,
+  "stage": "12R",
+  "event": "라리가",
+  "quality": 1,
+  "emb": true
  }
 ]

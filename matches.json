@@ -80,6 +80,22 @@
   ]
  },
  {
+  "matchId": "m-bd5e47a78a",
+  "leagueId": "laliga",
+  "date": "2026-11-09",
+  "league": "라리가 12R",
+  "teamA": "laliga:AT. 마드리드",
+  "teamB": "laliga:바르셀로나",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "-nzXchnkwoA"
+   }
+  ]
+ },
+ {
   "matchId": "m-379eee4622",
   "leagueId": "epl",
   "date": "2026-11-08",

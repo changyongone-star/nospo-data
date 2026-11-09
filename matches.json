@@ -71,7 +71,7 @@
    },
    {
     "setNo": 4,
-    "videoId": null
+    "videoId": "EZC69nAoOMs"
    },
    {
     "setNo": 5,
@@ -432,6 +432,22 @@
   ]
  },
  {
+  "matchId": "m-ec63d18241",
+  "leagueId": "nba",
+  "date": "2026-11-06",
+  "league": "NBA · NBA컵",
+  "teamA": "nba-lal",
+  "teamB": "nba-por",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "YEe4-NOi--4"
+   }
+  ]
+ },
+ {
   "matchId": "m-1d2691c60d",
   "leagueId": "lol",
   "date": "2026-11-05",
@@ -696,6 +712,70 @@
   ]
  },
  {
+  "matchId": "m-12c6833377",
+  "leagueId": "lol",
+  "date": "2026-11-01",
+  "league": "월즈 스위스",
+  "teamA": "hle",
+  "teamB": "blg",
+  "bestOf": 5,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "cnAIXp23rGQ"
+   },
+   {
+    "setNo": 2,
+    "videoId": "JiMGn1UECdM"
+   },
+   {
+    "setNo": 3,
+    "videoId": null
+   },
+   {
+    "setNo": 4,
+    "videoId": null
+   },
+   {
+    "setNo": 5,
+    "videoId": null
+   }
+  ]
+ },
+ {
+  "matchId": "m-12b705e842",
+  "leagueId": "lol",
+  "date": "2026-11-01",
+  "league": "월즈 스위스",
+  "teamA": "los",
+  "teamB": "lyon",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "gGNDFbzcOKE"
+   }
+  ]
+ },
+ {
+  "matchId": "m-efaa11058b",
+  "leagueId": "lol",
+  "date": "2026-11-01",
+  "league": "월즈 스위스",
+  "teamA": "kc",
+  "teamB": "mkoi",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "rIIsWR6VCVA"
+   }
+  ]
+ },
+ {
   "matchId": "w26-d7-g2-hle",
   "date": "2026-10-31",
   "league": "월즈 스위스",
@@ -824,38 +904,6 @@
   "leagueId": "lol"
  },
  {
-  "matchId": "m-41c148a103",
-  "leagueId": "kbo",
-  "date": "2026-10-30",
-  "league": "KBO 플레이오프",
-  "teamA": "kbo-kia",
-  "teamB": "kbo-samsung",
-  "bestOf": 5,
-  "ready": true,
-  "sets": [
-   {
-    "setNo": 1,
-    "videoId": null
-   },
-   {
-    "setNo": 2,
-    "videoId": null
-   },
-   {
-    "setNo": 3,
-    "videoId": null
-   },
-   {
-    "setNo": 4,
-    "videoId": "ejMdL3m6Dpc"
-   },
-   {
-    "setNo": 5,
-    "videoId": "IT2iLKT3a6c"
-   }
-  ]
- },
- {
   "matchId": "m-d9f3639c08",
   "leagueId": "kbl",
   "date": "2026-10-30",
@@ -920,6 +968,38 @@
   "leagueId": "lol"
  },
  {
+  "matchId": "m-7cf58edea4",
+  "leagueId": "kbl",
+  "date": "2026-10-29",
+  "league": "KBL",
+  "teamA": "kbl-kcc",
+  "teamB": "kbl-mobis",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "_YrK2XWAR3g"
+   }
+  ]
+ },
+ {
+  "matchId": "m-58411de533",
+  "leagueId": "kbl",
+  "date": "2026-10-28",
+  "league": "KBL",
+  "teamA": "kbl-db",
+  "teamB": "kbl-kogas",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "JwA9u5VpVkQ"
+   }
+  ]
+ },
+ {
   "matchId": "w26-d4-t1-cfo",
   "date": "2026-10-27",
   "league": "월즈 스위스",
@@ -982,6 +1062,54 @@
    }
   ],
   "leagueId": "lol"
+ },
+ {
+  "matchId": "m-8ec2e61394",
+  "leagueId": "kbl",
+  "date": "2026-10-27",
+  "league": "KBL",
+  "teamA": "kbl-kcc",
+  "teamB": "kbl-sk",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "57Gh7KEzDYk"
+   }
+  ]
+ },
+ {
+  "matchId": "m-41c148a103",
+  "leagueId": "kbo",
+  "date": "2026-10-26",
+  "league": "KBO 플레이오프",
+  "teamA": "kbo-kia",
+  "teamB": "kbo-samsung",
+  "bestOf": 5,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "wyC8BnovUUA"
+   },
+   {
+    "setNo": 2,
+    "videoId": "p-BBD0DMTYw"
+   },
+   {
+    "setNo": 3,
+    "videoId": "U7GxmDzjCuk"
+   },
+   {
+    "setNo": 4,
+    "videoId": "ejMdL3m6Dpc"
+   },
+   {
+    "setNo": 5,
+    "videoId": "IT2iLKT3a6c"
+   }
+  ]
  },
  {
   "matchId": "w26-d3-gen-lyon",
@@ -1078,5 +1206,85 @@
    }
   ],
   "leagueId": "lol"
+ },
+ {
+  "matchId": "m-d08b32e1d2",
+  "leagueId": "kbl",
+  "date": "2026-10-26",
+  "league": "KBL",
+  "teamA": "kbl-lg",
+  "teamB": "kbl-sono",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "YqZSr5qJHFk"
+   }
+  ]
+ },
+ {
+  "matchId": "m-1fbca1d14f",
+  "leagueId": "kbl",
+  "date": "2026-10-25",
+  "league": "KBL",
+  "teamA": "kbl-kogas",
+  "teamB": "kbl-samsung",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "xGWYK1Rf4HA"
+   }
+  ]
+ },
+ {
+  "matchId": "m-b432e0a74c",
+  "leagueId": "kbl",
+  "date": "2026-10-25",
+  "league": "KBL",
+  "teamA": "kbl-db",
+  "teamB": "kbl-kgc",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "Noz6OoA_yxo"
+   }
+  ]
+ },
+ {
+  "matchId": "m-503e19d6f7",
+  "leagueId": "kbl",
+  "date": "2026-10-25",
+  "league": "KBL",
+  "teamA": "kbl-kt",
+  "teamB": "kbl-sk",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "zuSD7FSOsDo"
+   }
+  ]
+ },
+ {
+  "matchId": "m-2116dafc70",
+  "leagueId": "kbl",
+  "date": "2026-10-24",
+  "league": "KBL",
+  "teamA": "kbl-mobis",
+  "teamB": "kbl-samsung",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "V76drMJBerY"
+   }
+  ]
  }
 ]

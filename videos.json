@@ -169,7 +169,7 @@
  },
  {
   "id": "IT67rwYSXvA",
-  "published": "2026-11-07T08:49:53Z",
+  "published": "2026-11-07T08:49:53+00:00",
   "leagueId": "kbo",
   "a": "kbo-kt",
   "b": "kbo-samsung",
@@ -182,7 +182,7 @@
  },
  {
   "id": "XSiyIVftn8s",
-  "published": "2026-11-06T18:00:14Z",
+  "published": "2026-11-06T18:00:14+00:00",
   "leagueId": "kbl",
   "a": "kbl-kgc",
   "b": "kbl-sk",
@@ -195,7 +195,7 @@
  },
  {
   "id": "4PR9g8KArTo",
-  "published": "2026-11-06T12:41:45Z",
+  "published": "2026-11-06T12:41:45+00:00",
   "leagueId": "kbo",
   "a": "kbo-kt",
   "b": "kbo-samsung",
@@ -325,7 +325,7 @@
  },
  {
   "id": "0ua5XjCa4aE",
-  "published": "2026-11-07T15:30:29Z",
+  "published": "2026-11-07T15:30:29+00:00",
   "leagueId": "kbl",
   "a": "kbl-kt",
   "b": "kbl-kogas",
@@ -338,7 +338,7 @@
  },
  {
   "id": "JlbDhfQ4loc",
-  "published": "2026-11-07T13:00:22Z",
+  "published": "2026-11-07T13:00:22+00:00",
   "leagueId": "kbl",
   "a": "kbl-db",
   "b": "kbl-samsung",
@@ -351,7 +351,7 @@
  },
  {
   "id": "G7uR3clsxKM",
-  "published": "2026-11-07T13:00:15Z",
+  "published": "2026-11-07T13:00:15+00:00",
   "leagueId": "kbl",
   "a": "kbl-lg",
   "b": "kbl-sono",
@@ -581,7 +581,7 @@
  },
  {
   "id": "H8ydwy0nGOI",
-  "published": "2026-11-08T08:25:13Z",
+  "published": "2026-11-08T08:25:13+00:00",
   "leagueId": "kbo",
   "a": "kbo-kt",
   "b": "kbo-samsung",
@@ -1445,7 +1445,7 @@
  },
  {
   "id": "-nzXchnkwoA",
-  "published": "2026-11-08T23:49:59Z",
+  "published": "2026-11-08T23:49:59+00:00",
   "leagueId": "laliga",
   "a": "laliga:AT. 마드리드",
   "b": "laliga:바르셀로나",

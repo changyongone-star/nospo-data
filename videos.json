@@ -1540,7 +1540,7 @@
  },
  {
   "id": "3rdz4PrUbMs",
-  "published": "2026-11-10T04:10:21Z",
+  "published": "2026-11-10T04:10:21+00:00",
   "leagueId": "nba",
   "a": "nba-den",
   "b": "nba-hou",
@@ -1554,7 +1554,7 @@
  },
  {
   "id": "RAPmPkOUf20",
-  "published": "2026-11-10T04:09:27Z",
+  "published": "2026-11-10T04:09:27+00:00",
   "leagueId": "nba",
   "a": "nba-ind",
   "b": "nba-dal",
@@ -1568,7 +1568,7 @@
  },
  {
   "id": "fZRq0ZJQa2I",
-  "published": "2026-11-10T04:48:00Z",
+  "published": "2026-11-10T04:48:00+00:00",
   "leagueId": "nba",
   "a": "nba-sas",
   "b": "nba-phx",
@@ -1582,7 +1582,7 @@
  },
  {
   "id": "HUaf_y2R-Jw",
-  "published": "2026-11-10T05:35:41Z",
+  "published": "2026-11-10T05:35:41+00:00",
   "leagueId": "nba",
   "a": "nba-nop",
   "b": "nba-gsw",

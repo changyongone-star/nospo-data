@@ -1607,5 +1607,18 @@
   "dateStr": "2026/11/9",
   "quality": 2,
   "emb": false
+ },
+ {
+  "id": "p31Ka6djUzY",
+  "published": "2026-11-10T18:00:22+00:00",
+  "leagueId": "kbl",
+  "a": "kbl-mobis",
+  "b": "kbl-sono",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "11/10",
+  "emb": true
  }
 ]

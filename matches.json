@@ -16,6 +16,22 @@
   ]
  },
  {
+  "matchId": "m-a6b99d5178",
+  "leagueId": "nba",
+  "date": "2026-11-10",
+  "league": "NBA",
+  "teamA": "nba-bos",
+  "teamB": "nba-phi",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "FuNJ6VVVQxY"
+   }
+  ]
+ },
+ {
   "matchId": "m-384bcc042b",
   "leagueId": "epl",
   "date": "2026-11-09",

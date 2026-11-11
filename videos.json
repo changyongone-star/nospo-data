@@ -902,7 +902,7 @@
  },
  {
   "id": "dIKGNynTfpo",
-  "published": "2026-11-08T23:13:14Z",
+  "published": "2026-11-08T23:13:14+00:00",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -914,7 +914,7 @@
  },
  {
   "id": "-ci-Ursh0XQ",
-  "published": "2026-11-09T00:02:34Z",
+  "published": "2026-11-09T00:02:34+00:00",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -926,7 +926,7 @@
  },
  {
   "id": "r503bsF16-o",
-  "published": "2026-11-09T01:02:05Z",
+  "published": "2026-11-09T01:02:05+00:00",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -938,7 +938,7 @@
  },
  {
   "id": "rQTHR3aL0SE",
-  "published": "2026-11-09T02:10:07Z",
+  "published": "2026-11-09T02:10:07+00:00",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -950,7 +950,7 @@
  },
  {
   "id": "EZC69nAoOMs",
-  "published": "2026-11-09T01:58:15Z",
+  "published": "2026-11-09T01:58:15+00:00",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -1484,7 +1484,7 @@
  },
  {
   "id": "2OZwNHo0o3Y",
-  "published": "2026-11-10T02:38:45+00:00",
+  "published": "2026-11-10T02:38:45Z",
   "leagueId": "nba",
   "a": "nba-cle",
   "b": "nba-cha",
@@ -1512,7 +1512,7 @@
  },
  {
   "id": "ZKUHnwGRazM",
-  "published": "2026-11-10T02:59:44+00:00",
+  "published": "2026-11-10T02:59:44Z",
   "leagueId": "nba",
   "a": "nba-was",
   "b": "nba-det",
@@ -1526,7 +1526,7 @@
  },
  {
   "id": "djG6fUgNcdE",
-  "published": "2026-11-10T03:07:04+00:00",
+  "published": "2026-11-10T03:07:04Z",
   "leagueId": "nba",
   "a": "nba-mem",
   "b": "nba-tor",
@@ -1540,7 +1540,7 @@
  },
  {
   "id": "3rdz4PrUbMs",
-  "published": "2026-11-10T04:10:21+00:00",
+  "published": "2026-11-10T04:10:21Z",
   "leagueId": "nba",
   "a": "nba-den",
   "b": "nba-hou",
@@ -1554,7 +1554,7 @@
  },
  {
   "id": "RAPmPkOUf20",
-  "published": "2026-11-10T04:09:27+00:00",
+  "published": "2026-11-10T04:09:27Z",
   "leagueId": "nba",
   "a": "nba-ind",
   "b": "nba-dal",
@@ -1568,7 +1568,7 @@
  },
  {
   "id": "fZRq0ZJQa2I",
-  "published": "2026-11-10T04:48:00+00:00",
+  "published": "2026-11-10T04:48:00Z",
   "leagueId": "nba",
   "a": "nba-sas",
   "b": "nba-phx",
@@ -1582,7 +1582,7 @@
  },
  {
   "id": "HUaf_y2R-Jw",
-  "published": "2026-11-10T05:35:41+00:00",
+  "published": "2026-11-10T05:35:41Z",
   "leagueId": "nba",
   "a": "nba-nop",
   "b": "nba-gsw",
@@ -1596,7 +1596,7 @@
  },
  {
   "id": "y-jR93AytPc",
-  "published": "2026-11-10T07:32:33+00:00",
+  "published": "2026-11-10T07:32:33Z",
   "leagueId": "nba",
   "a": "nba-ind",
   "b": "nba-dal",

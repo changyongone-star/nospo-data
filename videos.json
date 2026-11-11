@@ -902,7 +902,7 @@
  },
  {
   "id": "dIKGNynTfpo",
-  "published": "2026-11-08T23:13:14+00:00",
+  "published": "2026-11-08T23:13:14Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -914,7 +914,7 @@
  },
  {
   "id": "-ci-Ursh0XQ",
-  "published": "2026-11-09T00:02:34+00:00",
+  "published": "2026-11-09T00:02:34Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -926,7 +926,7 @@
  },
  {
   "id": "r503bsF16-o",
-  "published": "2026-11-09T01:02:05+00:00",
+  "published": "2026-11-09T01:02:05Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -938,7 +938,7 @@
  },
  {
   "id": "rQTHR3aL0SE",
-  "published": "2026-11-09T02:10:07+00:00",
+  "published": "2026-11-09T02:10:07Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -950,7 +950,7 @@
  },
  {
   "id": "EZC69nAoOMs",
-  "published": "2026-11-09T01:58:15+00:00",
+  "published": "2026-11-09T01:58:15Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -1627,6 +1627,20 @@
   "leagueId": "nba",
   "a": "nba-mil",
   "b": "nba-nyk",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/10",
+  "quality": 1,
+  "emb": false
+ },
+ {
+  "id": "ecqeLJ32ZhA",
+  "published": "2026-11-11T03:44:29Z",
+  "leagueId": "nba",
+  "a": "nba-bos",
+  "b": "nba-phi",
   "unit": "single",
   "n": null,
   "stage": "",

@@ -155,6 +155,14 @@ async function fetchChannel(src) {
   }
   const key = process.env.YT_API_KEY;
   if (!key) throw new Error(errors.join(' / ') + ' (YT_API_KEY 없음)');
+  const out = await fetchApiList(src, key);
+  console.log(`[${src.name}] RSS 실패 → API로 ${out.length}개`);
+  return out;
+}
+
+/** YouTube Data API로 채널의 최신 영상 50개 (RSS는 15개뿐이라, 갱신이 멈췄던 동안의 영상을 다시 채울 때도 쓴다) */
+async function fetchApiList(src, key) {
+  const errors = [];
   for (const pl of [`UULF${src.channel.slice(2)}`, `UU${src.channel.slice(2)}`]) {
     const url = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&maxResults=50&playlistId=${pl}&key=${key}`;
     const res = await fetch(url);
@@ -171,7 +179,6 @@ async function fetchChannel(src) {
       const p = src.parse(title);
       if (p) out.push({ id, published, ...p });
     }
-    console.log(`[${src.name}] RSS 실패 → API로 ${out.length}개`);
     return out;
   }
   throw new Error(errors.join(' / '));
@@ -254,16 +261,39 @@ async function main() {
   for (const v of videos) v.leagueId ??= 'lol'; // 예전 형식 호환
   for (const v of videos) if (v.leagueId === 'lol' && v.kind) ((v.unit = v.kind), (v.n = v.game), delete v.kind, delete v.game);
 
+  // BACKFILL=1 (실행마다 첫 라운드): API로 50개까지 더 읽어 RSS(15개)에서 밀려난 영상을 다시 채운다
+  const backfill = !!process.env.BACKFILL && !!process.env.YT_API_KEY;
+  const status = {};
+  const merge = (list) => {
+    let added = 0;
+    for (const v of list) {
+      const i = videos.findIndex((x) => x.id === v.id);
+      if (i >= 0) videos[i] = { ...v, emb: videos[i].emb };
+      else videos.push(v), (added += 1);
+    }
+    return added;
+  };
   if (!process.env.OFFLINE) {
     for (const src of SOURCES) {
+      const st = (status[src.name] = {});
       try {
-        for (const v of await fetchChannel(src)) {
-          const i = videos.findIndex((x) => x.id === v.id);
-          if (i >= 0) videos[i] = { ...v, emb: videos[i].emb };
-          else videos.push(v);
-        }
+        const list = await fetchChannel(src);
+        st.parsed = list.length;
+        merge(list);
       } catch (e) {
+        st.error = e.message.slice(0, 120);
         console.error(`[${src.name}] 실패:`, e.message); // 한 채널이 실패해도 나머지는 계속
+      }
+      if (backfill) {
+        try {
+          const list = await fetchApiList(src, process.env.YT_API_KEY);
+          st.apiParsed = list.length;
+          st.apiAdded = merge(list);
+          if (st.apiAdded) console.log(`[${src.name}] 보충 수집으로 ${st.apiAdded}개 추가`);
+        } catch (e) {
+          st.apiError = e.message.slice(0, 120);
+          console.error(`[${src.name}] 보충 수집 실패:`, e.message);
+        }
       }
     }
   }
@@ -331,6 +361,15 @@ async function main() {
   await writeFile('matches.json', JSON.stringify(kept, null, 1) + '\n');
   await writeFile('videos.json', JSON.stringify(videos, null, 1) + '\n');
   const by = kept.reduce((acc, m) => ((acc[m.leagueId] = (acc[m.leagueId] ?? 0) + 1), acc), {});
+  if (backfill) {
+    const prev = await readJSON('status.json', {});
+    if (!prev.checkedAt || now - Date.parse(prev.checkedAt) > 55 * 60e3) {
+      const latest = {};
+      for (const m of kept) if (!latest[m.leagueId] || m.date > latest[m.leagueId]) latest[m.leagueId] = m.date;
+      const doc = { checkedAt: new Date(now).toISOString(), matches: kept.length, latestByLeague: latest, sources: status };
+      await writeFile('status.json', JSON.stringify(doc, null, 1) + '\n');
+    }
+  }
   console.log(`videos ${videos.length}, matches ${kept.length}`, by);
 }
 

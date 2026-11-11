@@ -30,9 +30,11 @@ jobs:
           for round in 1 2 3 4 5; do
             echo "== round $round $(date -u +%H:%M)"
             git fetch --quiet origin main && git reset --quiet --hard origin/main
+            # 첫 라운드는 보충 수집(API로 50개) + status.json 갱신
+            if [ "$round" = 1 ]; then export BACKFILL=1; else unset BACKFILL; fi
             node scripts/update.mjs || echo "update failed (round $round)"
-            if [ -n "$(git status --porcelain matches.json videos.json)" ]; then
-              git add matches.json videos.json
+            if [ -n "$(git status --porcelain matches.json videos.json status.json)" ]; then
+              git add matches.json videos.json status.json 2>/dev/null || git add matches.json videos.json
               git commit -m "update highlights" --quiet
               git push --quiet || echo "push failed (다음 라운드에 다시 반영)"
             fi

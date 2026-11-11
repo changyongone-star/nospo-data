@@ -1,0 +1,35 @@
+{
+ "checkedAt": "2026-11-11T12:18:45.835Z",
+ "matches": 71,
+ "latestByLeague": {
+  "kbl": "2026-11-10",
+  "epl": "2026-11-09",
+  "lol": "2026-11-09",
+  "laliga": "2026-11-09",
+  "kleague": "2026-11-08",
+  "nba": "2026-11-06",
+  "kbo": "2026-11-03"
+ },
+ "sources": {
+  "LCK": {
+   "parsed": 9,
+   "apiParsed": 28,
+   "apiAdded": 0
+  },
+  "TVING SPORTS": {
+   "parsed": 11,
+   "apiParsed": 34,
+   "apiAdded": 0
+  },
+  "쿠팡플레이 스포츠": {
+   "parsed": 0,
+   "apiParsed": 12,
+   "apiAdded": 0
+  },
+  "NBA": {
+   "parsed": 7,
+   "apiParsed": 24,
+   "apiAdded": 0
+  }
+ }
+}

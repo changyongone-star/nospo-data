@@ -229,10 +229,13 @@ async function readJSON(path, fallback) {
 }
 
 /** 다른 사이트에 넣어 재생할 수 있는 영상인지 (embeddable, 한국 지역 제한) — API 키가 있을 때만 확인 */
-async function checkEmbeddable(videos) {
+async function checkEmbeddable(videos, recheck = false) {
   const key = process.env.YT_API_KEY;
   if (!key) return;
-  const todo = videos.filter((v) => v.emb === undefined);
+  // 처음 보는 영상은 항상 확인. recheck(실행마다 첫 라운드)일 때는 최근 3일 영상도 다시 확인한다
+  // — 올라온 직후에는 재생 가능으로 나오다가 나중에 국가 제한이 걸리는 영상이 있어서 (NBA에서 확인됨)
+  const fresh = (v) => Date.now() - Date.parse(v.published) < 3 * 864e5;
+  const todo = videos.filter((v) => v.emb === undefined || (recheck && fresh(v)));
   for (let i = 0; i < todo.length; i += 50) {
     const batch = todo.slice(i, i + 50);
     const url = `https://www.googleapis.com/youtube/v3/videos?part=status,contentDetails&id=${batch.map((v) => v.id).join(',')}&key=${key}`;
@@ -298,7 +301,7 @@ async function main() {
     }
   }
   videos = videos.filter((v) => now - Date.parse(v.published) < KEEP_VIDEO_DAYS * 864e5);
-  await checkEmbeddable(videos);
+  await checkEmbeddable(videos, backfill);
 
   // 경기(또는 시리즈)별로 묶기
   const groups = new Map();

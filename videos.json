@@ -1665,7 +1665,7 @@
  },
  {
   "id": "5hGbJnpnGQg",
-  "published": "2026-11-11T05:04:44Z",
+  "published": "2026-11-11T05:04:44+00:00",
   "leagueId": "nba",
   "a": "nba-mia",
   "b": "nba-uta",
@@ -1679,7 +1679,7 @@
  },
  {
   "id": "7j_QT3kVKYE",
-  "published": "2026-11-11T05:53:21Z",
+  "published": "2026-11-11T05:53:21+00:00",
   "leagueId": "nba",
   "a": "nba-orl",
   "b": "nba-sac",
@@ -1693,7 +1693,7 @@
  },
  {
   "id": "FuNJ6VVVQxY",
-  "published": "2026-11-11T06:02:54Z",
+  "published": "2026-11-11T06:02:54+00:00",
   "leagueId": "nba",
   "a": "nba-bos",
   "b": "nba-phi",
@@ -1707,7 +1707,7 @@
  },
  {
   "id": "WtmaQ-mk6Ls",
-  "published": "2026-11-11T07:00:08Z",
+  "published": "2026-11-11T07:00:08+00:00",
   "leagueId": "nba",
   "a": "nba-okc",
   "b": "nba-por",
@@ -1738,6 +1738,20 @@
   "leagueId": "nba",
   "a": "nba-was",
   "b": "nba-ind",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/11",
+  "quality": 1,
+  "emb": false
+ },
+ {
+  "id": "NLRiKoJ9Al0",
+  "published": "2026-11-12T02:54:48+00:00",
+  "leagueId": "nba",
+  "a": "nba-cle",
+  "b": "nba-nyk",
   "unit": "single",
   "n": null,
   "stage": "",

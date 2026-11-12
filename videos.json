@@ -1734,7 +1734,7 @@
  },
  {
   "id": "HnqdGxObUBs",
-  "published": "2026-11-12T02:41:07Z",
+  "published": "2026-11-12T02:41:07+00:00",
   "leagueId": "nba",
   "a": "nba-was",
   "b": "nba-ind",
@@ -1748,7 +1748,7 @@
  },
  {
   "id": "NLRiKoJ9Al0",
-  "published": "2026-11-12T02:54:48Z",
+  "published": "2026-11-12T02:54:48+00:00",
   "leagueId": "nba",
   "a": "nba-cle",
   "b": "nba-nyk",

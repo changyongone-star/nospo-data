@@ -1954,5 +1954,19 @@
   "dateStr": "2026/11/12",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "83JRx5vusGU",
+  "published": "2026-11-13T05:25:54Z",
+  "leagueId": "nba",
+  "a": "nba-det",
+  "b": "nba-was",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/12",
+  "quality": 2,
+  "emb": false
  }
 ]

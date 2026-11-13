@@ -1912,5 +1912,33 @@
   "dateStr": "2026/11/12",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "vk9wsWTp5Ns",
+  "published": "2026-11-13T03:44:05Z",
+  "leagueId": "nba",
+  "a": "nba-det",
+  "b": "nba-was",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/12",
+  "quality": 1,
+  "emb": false
+ },
+ {
+  "id": "a917kl3-0Qo",
+  "published": "2026-11-13T03:37:08Z",
+  "leagueId": "nba",
+  "a": "nba-dal",
+  "b": "nba-min",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/12",
+  "quality": 1,
+  "emb": false
  }
 ]

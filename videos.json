@@ -1995,5 +1995,19 @@
   "dateStr": "2026/11/13",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "p1ZbMS1_Aww",
+  "published": "2026-11-14T03:25:39Z",
+  "leagueId": "nba",
+  "a": "nba-nyk",
+  "b": "nba-ind",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/13",
+  "quality": 1,
+  "emb": false
  }
 ]

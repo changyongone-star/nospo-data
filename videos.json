@@ -2023,5 +2023,33 @@
   "dateStr": "2026/11/13",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "0AKvkuMffG4",
+  "published": "2026-11-14T04:12:09Z",
+  "leagueId": "nba",
+  "a": "nba-atl",
+  "b": "nba-chi",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/13",
+  "quality": 1,
+  "emb": false
+ },
+ {
+  "id": "pW8Zq151Q_U",
+  "published": "2026-11-14T04:06:47Z",
+  "leagueId": "nba",
+  "a": "nba-mem",
+  "b": "nba-nop",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/13",
+  "quality": 1,
+  "emb": false
  }
 ]

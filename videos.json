@@ -2079,5 +2079,19 @@
   "dateStr": "2026/11/13",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "s8XSacjQ1r0",
+  "published": "2026-11-14T06:09:01Z",
+  "leagueId": "nba",
+  "a": "nba-por",
+  "b": "nba-sac",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/13",
+  "quality": 1,
+  "emb": false
  }
 ]

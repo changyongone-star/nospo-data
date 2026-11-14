@@ -2093,5 +2093,33 @@
   "dateStr": "2026/11/13",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "2lUMFan8r_0",
+  "published": "2026-11-14T07:18:11Z",
+  "leagueId": "nba",
+  "a": "nba-okc",
+  "b": "nba-lac",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/13",
+  "quality": 2,
+  "emb": false
+ },
+ {
+  "id": "xohvOmDZ_wg",
+  "published": "2026-11-14T06:22:12Z",
+  "leagueId": "nba",
+  "a": "nba-okc",
+  "b": "nba-lac",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/13",
+  "quality": 1,
+  "emb": false
  }
 ]

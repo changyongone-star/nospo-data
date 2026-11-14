@@ -2009,5 +2009,19 @@
   "dateStr": "2026/11/13",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "UM4WvtmbJGM",
+  "published": "2026-11-14T04:00:52Z",
+  "leagueId": "nba",
+  "a": "nba-cle",
+  "b": "nba-mia",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/13",
+  "quality": 1,
+  "emb": false
  }
 ]

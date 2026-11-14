@@ -1,10 +1,10 @@
 {
- "checkedAt": "2026-11-14T20:21:17.187Z",
- "matches": 77,
+ "checkedAt": "2026-11-14T21:42:21.610Z",
+ "matches": 78,
  "latestByLeague": {
+  "lol": "2026-11-15",
   "kbl": "2026-11-14",
   "epl": "2026-11-09",
-  "lol": "2026-11-09",
   "laliga": "2026-11-09",
   "kleague": "2026-11-08",
   "nba": "2026-11-06",
@@ -12,12 +12,12 @@
  },
  "sources": {
   "LCK": {
-   "parsed": 8,
-   "apiParsed": 26,
+   "parsed": 27,
+   "apiParsed": 27,
    "apiAdded": 0
   },
   "TVING SPORTS": {
-   "parsed": 8,
+   "parsed": 33,
    "apiParsed": 33,
    "apiAdded": 0
   },
@@ -27,7 +27,7 @@
    "apiAdded": 0
   },
   "NBA": {
-   "parsed": 9,
+   "parsed": 23,
    "apiParsed": 23,
    "apiAdded": 0
   }

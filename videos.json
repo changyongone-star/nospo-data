@@ -2051,5 +2051,19 @@
   "dateStr": "2026/11/13",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "BxIKfpJRZIo",
+  "published": "2026-11-14T04:46:30Z",
+  "leagueId": "nba",
+  "a": "nba-uta",
+  "b": "nba-hou",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/13",
+  "quality": 1,
+  "emb": false
  }
 ]

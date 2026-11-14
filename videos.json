@@ -1981,5 +1981,19 @@
   "event": "2026-27 KCC 프로농구",
   "dateStr": "11/13",
   "emb": true
+ },
+ {
+  "id": "O_xEiV3iQJY",
+  "published": "2026-11-14T02:54:36Z",
+  "leagueId": "nba",
+  "a": "nba-mil",
+  "b": "nba-orl",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/13",
+  "quality": 1,
+  "emb": false
  }
 ]

@@ -2160,5 +2160,17 @@
   "event": "2026-27 KCC 프로농구",
   "dateStr": "11/14",
   "emb": true
+ },
+ {
+  "id": "j4UP9fVpZsA",
+  "published": "2026-11-14T21:30:00Z",
+  "leagueId": "lol",
+  "a": "gen",
+  "b": "blg",
+  "unit": "game",
+  "n": 1,
+  "stage": "결승전",
+  "event": "2026 월드 챔피언십",
+  "emb": true
  }
 ]

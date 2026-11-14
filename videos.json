@@ -2172,5 +2172,17 @@
   "stage": "결승전",
   "event": "2026 월드 챔피언십",
   "emb": true
+ },
+ {
+  "id": "PKf7Dzxeshs",
+  "published": "2026-11-14T22:52:25+00:00",
+  "leagueId": "lol",
+  "a": "gen",
+  "b": "blg",
+  "unit": "game",
+  "n": 2,
+  "stage": "결승전",
+  "event": "2026 월드 챔피언십",
+  "emb": true
  }
 ]

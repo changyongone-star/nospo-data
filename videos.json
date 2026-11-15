@@ -2220,5 +2220,19 @@
   "stage": "결승전",
   "event": "2026 월드 챔피언십",
   "emb": true
+ },
+ {
+  "id": "i2BFzNvtr6Y",
+  "published": "2026-11-15T02:53:07Z",
+  "leagueId": "nba",
+  "a": "nba-den",
+  "b": "nba-nop",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/14",
+  "quality": 1,
+  "emb": false
  }
 ]

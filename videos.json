@@ -2343,5 +2343,19 @@
   "event": "2026-27 KCC 프로농구",
   "dateStr": "11/15",
   "emb": true
+ },
+ {
+  "id": "DAyN_i0k368",
+  "published": "2026-11-15T20:54:20+00:00",
+  "leagueId": "nba",
+  "a": "nba-ind",
+  "b": "nba-phi",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/15",
+  "quality": 1,
+  "emb": false
  }
 ]

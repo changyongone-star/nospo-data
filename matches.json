@@ -80,22 +80,6 @@
   ]
  },
  {
-  "matchId": "m-9f3e8e32e3",
-  "leagueId": "nba",
-  "date": "2026-11-14",
-  "league": "NBA",
-  "teamA": "nba-cle",
-  "teamB": "nba-dal",
-  "bestOf": 1,
-  "ready": true,
-  "sets": [
-   {
-    "setNo": 1,
-    "videoId": "q1grkFp0K8I"
-   }
-  ]
- },
- {
   "matchId": "m-37b3919baf",
   "leagueId": "kbl",
   "date": "2026-11-13",

@@ -2247,6 +2247,6 @@
   "event": "NBA",
   "dateStr": "2026/11/14",
   "quality": 1,
-  "emb": true
+  "emb": false
  }
 ]

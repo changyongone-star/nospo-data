@@ -7,7 +7,7 @@
   "teamA": "gen",
   "teamB": "blg",
   "bestOf": 5,
-  "ready": false,
+  "ready": true,
   "sets": [
    {
     "setNo": 1,

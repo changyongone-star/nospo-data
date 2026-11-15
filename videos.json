@@ -2082,7 +2082,7 @@
  },
  {
   "id": "s8XSacjQ1r0",
-  "published": "2026-11-14T06:09:01+00:00",
+  "published": "2026-11-14T06:09:01Z",
   "leagueId": "nba",
   "a": "nba-por",
   "b": "nba-sac",
@@ -2096,7 +2096,7 @@
  },
  {
   "id": "2lUMFan8r_0",
-  "published": "2026-11-14T07:18:11+00:00",
+  "published": "2026-11-14T07:18:11Z",
   "leagueId": "nba",
   "a": "nba-okc",
   "b": "nba-lac",
@@ -2110,7 +2110,7 @@
  },
  {
   "id": "xohvOmDZ_wg",
-  "published": "2026-11-14T06:22:12+00:00",
+  "published": "2026-11-14T06:22:12Z",
   "leagueId": "nba",
   "a": "nba-okc",
   "b": "nba-lac",
@@ -2205,6 +2205,18 @@
   "b": "blg",
   "unit": "game",
   "n": 4,
+  "stage": "결승전",
+  "event": "2026 월드 챔피언십",
+  "emb": true
+ },
+ {
+  "id": "qhldObL8zpY",
+  "published": "2026-11-15T00:50:58Z",
+  "leagueId": "lol",
+  "a": "gen",
+  "b": "blg",
+  "unit": "match",
+  "n": null,
   "stage": "결승전",
   "event": "2026 월드 챔피언십",
   "emb": true

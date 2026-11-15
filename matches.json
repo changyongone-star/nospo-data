@@ -48,6 +48,38 @@
   ]
  },
  {
+  "matchId": "m-26baf01bbf",
+  "leagueId": "kbl",
+  "date": "2026-11-15",
+  "league": "KBL",
+  "teamA": "kbl-kt",
+  "teamB": "kbl-lg",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "n32XL0zExLg"
+   }
+  ]
+ },
+ {
+  "matchId": "m-1407a5a906",
+  "leagueId": "kbl",
+  "date": "2026-11-15",
+  "league": "KBL",
+  "teamA": "kbl-kcc",
+  "teamB": "kbl-kogas",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "Wq3dDej0EOk"
+   }
+  ]
+ },
+ {
   "matchId": "m-d52f7c6a03",
   "leagueId": "kbl",
   "date": "2026-11-14",

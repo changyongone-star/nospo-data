@@ -1,6 +1,6 @@
 {
- "checkedAt": "2026-11-15T15:19:27.752Z",
- "matches": 79,
+ "checkedAt": "2026-11-15T16:40:36.980Z",
+ "matches": 81,
  "latestByLeague": {
   "lol": "2026-11-15",
   "kbl": "2026-11-15",
@@ -17,7 +17,7 @@
    "apiAdded": 0
   },
   "TVING SPORTS": {
-   "parsed": 7,
+   "parsed": 8,
    "apiParsed": 32,
    "apiAdded": 0
   },

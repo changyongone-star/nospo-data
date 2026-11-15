@@ -32,6 +32,22 @@
   ]
  },
  {
+  "matchId": "m-2b72cb52d4",
+  "leagueId": "kbl",
+  "date": "2026-11-15",
+  "league": "KBL",
+  "teamA": "kbl-db",
+  "teamB": "kbl-sono",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "jy77DXDom5M"
+   }
+  ]
+ },
+ {
   "matchId": "m-d52f7c6a03",
   "leagueId": "kbl",
   "date": "2026-11-14",

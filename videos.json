@@ -2096,7 +2096,7 @@
  },
  {
   "id": "2lUMFan8r_0",
-  "published": "2026-11-14T07:18:11+00:00",
+  "published": "2026-11-14T07:18:11Z",
   "leagueId": "nba",
   "a": "nba-okc",
   "b": "nba-lac",
@@ -2223,7 +2223,7 @@
  },
  {
   "id": "i2BFzNvtr6Y",
-  "published": "2026-11-15T02:53:07+00:00",
+  "published": "2026-11-15T02:53:07Z",
   "leagueId": "nba",
   "a": "nba-den",
   "b": "nba-nop",
@@ -2237,7 +2237,7 @@
  },
  {
   "id": "q1grkFp0K8I",
-  "published": "2026-11-15T03:27:14+00:00",
+  "published": "2026-11-15T03:27:14Z",
   "leagueId": "nba",
   "a": "nba-dal",
   "b": "nba-cle",
@@ -2251,7 +2251,7 @@
  },
  {
   "id": "BJc9aQLcbAo",
-  "published": "2026-11-15T03:55:27+00:00",
+  "published": "2026-11-15T03:55:27Z",
   "leagueId": "nba",
   "a": "nba-chi",
   "b": "nba-min",
@@ -2265,7 +2265,7 @@
  },
  {
   "id": "Ti118u15fwA",
-  "published": "2026-11-15T03:59:59+00:00",
+  "published": "2026-11-15T03:59:59Z",
   "leagueId": "nba",
   "a": "nba-bkn",
   "b": "nba-mem",
@@ -2279,7 +2279,7 @@
  },
  {
   "id": "X4Vj94oz9K4",
-  "published": "2026-11-15T04:15:48+00:00",
+  "published": "2026-11-15T04:15:48Z",
   "leagueId": "nba",
   "a": "nba-det",
   "b": "nba-mia",
@@ -2293,7 +2293,7 @@
  },
  {
   "id": "YyTRQH2w-Ak",
-  "published": "2026-11-15T05:06:48+00:00",
+  "published": "2026-11-15T05:06:48Z",
   "leagueId": "nba",
   "a": "nba-det",
   "b": "nba-mia",
@@ -2346,7 +2346,7 @@
  },
  {
   "id": "DAyN_i0k368",
-  "published": "2026-11-15T20:54:20+00:00",
+  "published": "2026-11-15T20:54:20Z",
   "leagueId": "nba",
   "a": "nba-ind",
   "b": "nba-phi",

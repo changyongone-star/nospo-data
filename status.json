@@ -1,13 +1,13 @@
 {
- "checkedAt": "2026-11-16T00:47:04.267Z",
- "matches": 81,
+ "checkedAt": "2026-11-16T02:08:37.146Z",
+ "matches": 82,
  "latestByLeague": {
   "lol": "2026-11-15",
   "kbl": "2026-11-15",
+  "nba": "2026-11-15",
   "epl": "2026-11-09",
   "laliga": "2026-11-09",
   "kleague": "2026-11-08",
-  "nba": "2026-11-06",
   "kbo": "2026-11-03"
  },
  "sources": {
@@ -27,8 +27,8 @@
    "apiAdded": 0
   },
   "NBA": {
-   "parsed": 25,
-   "apiParsed": 25,
+   "parsed": 7,
+   "apiParsed": 26,
    "apiAdded": 0
   }
  }

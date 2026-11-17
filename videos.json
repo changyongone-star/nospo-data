@@ -2496,5 +2496,47 @@
   "event": "2026-27 KCC 프로농구",
   "dateStr": "11/16",
   "emb": true
+ },
+ {
+  "id": "2gG-akfMgqA",
+  "published": "2026-11-17T03:04:31+00:00",
+  "leagueId": "nba",
+  "a": "nba-chi",
+  "b": "nba-cle",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/16",
+  "quality": 1,
+  "emb": false
+ },
+ {
+  "id": "I3RDMfKOLhI",
+  "published": "2026-11-17T02:59:23+00:00",
+  "leagueId": "nba",
+  "a": "nba-mem",
+  "b": "nba-was",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/16",
+  "quality": 1,
+  "emb": false
+ },
+ {
+  "id": "PZbSOMpMelI",
+  "published": "2026-11-17T02:55:17+00:00",
+  "leagueId": "nba",
+  "a": "nba-orl",
+  "b": "nba-bos",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/16",
+  "quality": 1,
+  "emb": false
  }
 ]

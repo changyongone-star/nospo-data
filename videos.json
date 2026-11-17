@@ -2622,5 +2622,18 @@
   "dateStr": "2026/11/16",
   "quality": 2,
   "emb": false
+ },
+ {
+  "id": "vNBFJBN70Sg",
+  "published": "2026-11-17T18:00:10+00:00",
+  "leagueId": "kbl",
+  "a": "kbl-db",
+  "b": "kbl-kgc",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "11/17",
+  "emb": true
  }
 ]

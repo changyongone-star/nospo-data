@@ -2635,5 +2635,19 @@
   "event": "2026-27 KCC 프로농구",
   "dateStr": "11/17",
   "emb": true
+ },
+ {
+  "id": "ZAVq6pBW_DE",
+  "published": "2026-11-18T03:11:14+00:00",
+  "leagueId": "nba",
+  "a": "nba-nyk",
+  "b": "nba-tor",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/17",
+  "quality": 1,
+  "emb": false
  }
 ]

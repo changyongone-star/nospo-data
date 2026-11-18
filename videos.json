@@ -2733,5 +2733,19 @@
   "dateStr": "2026/11/17",
   "quality": 2,
   "emb": false
+ },
+ {
+  "id": "3Glb4WcCasw",
+  "published": "2026-11-18T07:22:17+00:00",
+  "leagueId": "nba",
+  "a": "nba-cha",
+  "b": "nba-lal",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/17",
+  "quality": 1,
+  "emb": false
  }
 ]

@@ -1,5 +1,21 @@
 [
  {
+  "matchId": "m-6d15def372",
+  "leagueId": "kbl",
+  "date": "2026-11-18",
+  "league": "KBL",
+  "teamA": "kbl-lg",
+  "teamB": "kbl-samsung",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "x03Bv44Hykk"
+   }
+  ]
+ },
+ {
   "matchId": "m-44f3e2e1ea",
   "leagueId": "kbl",
   "date": "2026-11-17",

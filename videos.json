@@ -2705,5 +2705,33 @@
   "dateStr": "2026/11/17",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "wHLPrhlCyok",
+  "published": "2026-11-18T07:14:33+00:00",
+  "leagueId": "nba",
+  "a": "nba-por",
+  "b": "nba-min",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/17",
+  "quality": 2,
+  "emb": false
+ },
+ {
+  "id": "y1xu9HT92HM",
+  "published": "2026-11-18T07:13:14+00:00",
+  "leagueId": "nba",
+  "a": "nba-det",
+  "b": "nba-sas",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/17",
+  "quality": 2,
+  "emb": false
  }
 ]

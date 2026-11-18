@@ -2691,5 +2691,19 @@
   "dateStr": "2026/11/17",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "syohEge7c5o",
+  "published": "2026-11-18T06:10:11+00:00",
+  "leagueId": "nba",
+  "a": "nba-uta",
+  "b": "nba-lac",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/17",
+  "quality": 1,
+  "emb": false
  }
 ]

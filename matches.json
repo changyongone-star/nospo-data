@@ -16,6 +16,22 @@
   ]
  },
  {
+  "matchId": "m-c9dbdbfdcb",
+  "leagueId": "nba",
+  "date": "2026-11-17",
+  "league": "NBA",
+  "teamA": "nba-min",
+  "teamB": "nba-por",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "JXyXV8Hv3So"
+   }
+  ]
+ },
+ {
   "matchId": "m-4e7b313b46",
   "leagueId": "kbl",
   "date": "2026-11-16",

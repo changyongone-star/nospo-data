@@ -2649,5 +2649,19 @@
   "dateStr": "2026/11/17",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "ZagtmnXswv4",
+  "published": "2026-11-18T03:52:46+00:00",
+  "leagueId": "nba",
+  "a": "nba-det",
+  "b": "nba-sas",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/17",
+  "quality": 1,
+  "emb": false
  }
 ]

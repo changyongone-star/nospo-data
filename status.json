@@ -1,8 +1,8 @@
 {
- "checkedAt": "2026-11-19T16:48:16.216Z",
- "matches": 85,
+ "checkedAt": "2026-11-19T18:09:43.268Z",
+ "matches": 87,
  "latestByLeague": {
-  "kbl": "2026-11-18",
+  "kbl": "2026-11-19",
   "nba": "2026-11-17",
   "lol": "2026-11-15",
   "epl": "2026-11-09",
@@ -17,8 +17,8 @@
    "apiAdded": 0
   },
   "TVING SPORTS": {
-   "parsed": 10,
-   "apiParsed": 32,
+   "parsed": 11,
+   "apiParsed": 33,
    "apiAdded": 0
   },
   "쿠팡플레이 스포츠": {
@@ -27,8 +27,8 @@
    "apiAdded": 0
   },
   "NBA": {
-   "parsed": 9,
-   "apiParsed": 23,
+   "parsed": 8,
+   "apiParsed": 22,
    "apiAdded": 0
   }
  }

@@ -2816,5 +2816,19 @@
   "dateStr": "2026/11/18",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "4wdFn77Fqts",
+  "published": "2026-11-19T03:11:00+00:00",
+  "leagueId": "nba",
+  "a": "nba-chi",
+  "b": "nba-bkn",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/18",
+  "quality": 1,
+  "emb": false
  }
 ]

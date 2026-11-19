@@ -2956,5 +2956,31 @@
   "dateStr": "2026/11/18",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "hIZr38K3hvo",
+  "published": "2026-11-19T18:00:32+00:00",
+  "leagueId": "kbl",
+  "a": "kbl-kt",
+  "b": "kbl-sk",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "11/19",
+  "emb": true
+ },
+ {
+  "id": "1GYL01DUcb4",
+  "published": "2026-11-19T18:00:19+00:00",
+  "leagueId": "kbl",
+  "a": "kbl-kgc",
+  "b": "kbl-kcc",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "2026-27 KCC 프로농구",
+  "dateStr": "11/19",
+  "emb": true
  }
 ]

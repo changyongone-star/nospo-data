@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-19T05:58:48.269Z",
+ "checkedAt": "2026-11-19T07:19:54.889Z",
  "matches": 85,
  "latestByLeague": {
   "kbl": "2026-11-18",
@@ -27,8 +27,8 @@
    "apiAdded": 0
   },
   "NBA": {
-   "parsed": 11,
-   "apiParsed": 24,
+   "parsed": 10,
+   "apiParsed": 23,
    "apiAdded": 0
   }
  }

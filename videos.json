@@ -3178,5 +3178,19 @@
   "dateStr": "2026/11/20",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "Yg4Vbtko-Sw",
+  "published": "2026-11-21T06:26:26+00:00",
+  "leagueId": "nba",
+  "a": "nba-sac",
+  "b": "nba-lal",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/20",
+  "quality": 2,
+  "emb": false
  }
 ]

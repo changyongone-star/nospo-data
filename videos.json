@@ -3362,5 +3362,18 @@
   "event": "프리미어리그",
   "quality": 1,
   "emb": true
+ },
+ {
+  "id": "xPPknvVrML8",
+  "published": "2026-11-21T23:52:57+00:00",
+  "leagueId": "laliga",
+  "a": "laliga:레알 마드리드",
+  "b": "laliga:셀타 비고",
+  "unit": "single",
+  "n": null,
+  "stage": "13R",
+  "event": "라리가",
+  "quality": 1,
+  "emb": true
  }
 ]

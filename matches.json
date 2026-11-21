@@ -64,6 +64,22 @@
   ]
  },
  {
+  "matchId": "m-6122cc9cbf",
+  "leagueId": "laliga",
+  "date": "2026-11-22",
+  "league": "라리가 13R",
+  "teamA": "laliga:레알 마드리드",
+  "teamB": "laliga:셀타 비고",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "xPPknvVrML8"
+   }
+  ]
+ },
+ {
   "matchId": "m-449bbf6d89",
   "leagueId": "kleague",
   "date": "2026-11-21",

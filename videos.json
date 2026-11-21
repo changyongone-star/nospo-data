@@ -3136,5 +3136,19 @@
   "dateStr": "2026/11/20",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "AR4TUrUkkzo",
+  "published": "2026-11-21T05:35:54+00:00",
+  "leagueId": "nba",
+  "a": "nba-phx",
+  "b": "nba-uta",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/20",
+  "quality": 1,
+  "emb": false
  }
 ]

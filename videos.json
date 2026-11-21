@@ -3349,5 +3349,18 @@
   "dateStr": "2026/11/21",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "rE0KOXoRVek",
+  "published": "2026-11-21T22:00:26+00:00",
+  "leagueId": "epl",
+  "a": "epl:뉴캐슬",
+  "b": "epl:아스날",
+  "unit": "single",
+  "n": null,
+  "stage": "11R",
+  "event": "프리미어리그",
+  "quality": 1,
+  "emb": true
  }
 ]

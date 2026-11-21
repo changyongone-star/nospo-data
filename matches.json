@@ -48,6 +48,22 @@
   ]
  },
  {
+  "matchId": "m-65d99c46ef",
+  "leagueId": "epl",
+  "date": "2026-11-22",
+  "league": "프리미어리그 11R",
+  "teamA": "epl:뉴캐슬",
+  "teamB": "epl:아스날",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "rE0KOXoRVek"
+   }
+  ]
+ },
+ {
   "matchId": "m-449bbf6d89",
   "leagueId": "kleague",
   "date": "2026-11-21",

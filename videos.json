@@ -3192,5 +3192,31 @@
   "dateStr": "2026/11/20",
   "quality": 2,
   "emb": false
+ },
+ {
+  "id": "SI0I0tu851U",
+  "published": "2026-11-21T08:30:27+00:00",
+  "leagueId": "kleague",
+  "a": "kleague:전북",
+  "b": "kleague:서울",
+  "unit": "single",
+  "n": null,
+  "stage": "36R",
+  "event": "K리그1",
+  "quality": 1,
+  "emb": true
+ },
+ {
+  "id": "TJFtswz5EmQ",
+  "published": "2026-11-21T08:30:15+00:00",
+  "leagueId": "kleague",
+  "a": "kleague:포항",
+  "b": "kleague:안양",
+  "unit": "single",
+  "n": null,
+  "stage": "36R",
+  "event": "K리그1",
+  "quality": 1,
+  "emb": true
  }
 ]

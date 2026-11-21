@@ -1,12 +1,12 @@
 {
- "checkedAt": "2026-11-21T18:50:54.181Z",
- "matches": 91,
+ "checkedAt": "2026-11-21T20:11:56.650Z",
+ "matches": 92,
  "latestByLeague": {
+  "epl": "2026-11-22",
   "kleague": "2026-11-21",
   "kbl": "2026-11-19",
   "nba": "2026-11-17",
   "lol": "2026-11-15",
-  "epl": "2026-11-09",
   "laliga": "2026-11-09",
   "kbo": "2026-11-03"
  },
@@ -22,8 +22,8 @@
    "apiAdded": 0
   },
   "쿠팡플레이 스포츠": {
-   "parsed": 6,
-   "apiParsed": 8,
+   "parsed": 7,
+   "apiParsed": 9,
    "apiAdded": 0
   },
   "NBA": {

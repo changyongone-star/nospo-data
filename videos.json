@@ -3335,5 +3335,19 @@
   "event": "프리미어리그",
   "quality": 1,
   "emb": true
+ },
+ {
+  "id": "Kyw8c2ComZ0",
+  "published": "2026-11-21T20:53:11+00:00",
+  "leagueId": "nba",
+  "a": "nba-mil",
+  "b": "nba-phi",
+  "unit": "single",
+  "n": null,
+  "stage": "",
+  "event": "NBA",
+  "dateStr": "2026/11/21",
+  "quality": 1,
+  "emb": false
  }
 ]

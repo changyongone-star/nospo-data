@@ -1,21 +1,5 @@
 [
  {
-  "matchId": "m-93dc198aab",
-  "leagueId": "nba",
-  "date": "2026-11-20",
-  "league": "NBA · NBA컵",
-  "teamA": "nba-nop",
-  "teamB": "nba-okc",
-  "bestOf": 1,
-  "ready": true,
-  "sets": [
-   {
-    "setNo": 1,
-    "videoId": "NXnXlEQ-FRo"
-   }
-  ]
- },
- {
   "matchId": "m-270aaf5e58",
   "leagueId": "kbl",
   "date": "2026-11-19",

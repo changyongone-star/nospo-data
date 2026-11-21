@@ -3296,5 +3296,18 @@
   "event": "K리그1",
   "quality": 2,
   "emb": true
+ },
+ {
+  "id": "EqIvKgGXpEg",
+  "published": "2026-11-21T19:19:52+00:00",
+  "leagueId": "epl",
+  "a": "epl:맨시티",
+  "b": "epl:풀럼",
+  "unit": "single",
+  "n": null,
+  "stage": "11R",
+  "event": "프리미어리그",
+  "quality": 1,
+  "emb": true
  }
 ]

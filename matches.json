@@ -80,6 +80,22 @@
   ]
  },
  {
+  "matchId": "m-7d9faa09c2",
+  "leagueId": "kleague",
+  "date": "2026-11-22",
+  "league": "K리그1 36R",
+  "teamA": "kleague:광주",
+  "teamB": "kleague:부천",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "bMN1lCpQ8aE"
+   }
+  ]
+ },
+ {
   "matchId": "m-449bbf6d89",
   "leagueId": "kleague",
   "date": "2026-11-21",

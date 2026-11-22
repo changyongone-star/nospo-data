@@ -32,6 +32,22 @@
   ]
  },
  {
+  "matchId": "m-49db1702a9",
+  "leagueId": "epl",
+  "date": "2026-11-23",
+  "league": "프리미어리그 11R",
+  "teamA": "epl:리버풀",
+  "teamB": "epl:맨유",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "XUbXM7NNhAw"
+   }
+  ]
+ },
+ {
   "matchId": "m-b01fa5ff77",
   "leagueId": "epl",
   "date": "2026-11-22",

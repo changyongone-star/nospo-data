@@ -3525,5 +3525,31 @@
   "event": "K리그1",
   "quality": 2,
   "emb": true
+ },
+ {
+  "id": "pvpLDYuZUNI",
+  "published": "2026-11-22T19:00:30+00:00",
+  "leagueId": "epl",
+  "a": "epl:헐 시티",
+  "b": "epl:브라이튼",
+  "unit": "single",
+  "n": null,
+  "stage": "11R",
+  "event": "프리미어리그",
+  "quality": 1,
+  "emb": true
+ },
+ {
+  "id": "y5EOVyFGSBM",
+  "published": "2026-11-22T19:00:09+00:00",
+  "leagueId": "laliga",
+  "a": "laliga:바르셀로나",
+  "b": "laliga:비야레알",
+  "unit": "single",
+  "n": null,
+  "stage": "13R",
+  "event": "라리가",
+  "quality": 1,
+  "emb": true
  }
 ]

@@ -3486,5 +3486,18 @@
   "event": "K리그1",
   "quality": 1,
   "emb": true
+ },
+ {
+  "id": "fH0B5URoJ6k",
+  "published": "2026-11-22T08:30:27+00:00",
+  "leagueId": "kleague",
+  "a": "kleague:김천",
+  "b": "kleague:제주",
+  "unit": "single",
+  "n": null,
+  "stage": "36R",
+  "event": "K리그1",
+  "quality": 1,
+  "emb": true
  }
 ]

@@ -96,6 +96,22 @@
   ]
  },
  {
+  "matchId": "m-10c1a52e13",
+  "leagueId": "kleague",
+  "date": "2026-11-22",
+  "league": "K리그1 36R",
+  "teamA": "kleague:김천",
+  "teamB": "kleague:제주",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "fH0B5URoJ6k"
+   }
+  ]
+ },
+ {
   "matchId": "m-449bbf6d89",
   "leagueId": "kleague",
   "date": "2026-11-21",

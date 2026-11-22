@@ -3499,5 +3499,31 @@
   "event": "K리그1",
   "quality": 1,
   "emb": true
+ },
+ {
+  "id": "JodbK0_vQsY",
+  "published": "2026-11-22T11:00:22+00:00",
+  "leagueId": "kleague",
+  "a": "kleague:김천",
+  "b": "kleague:제주",
+  "unit": "single",
+  "n": null,
+  "stage": "36R",
+  "event": "K리그1",
+  "quality": 2,
+  "emb": true
+ },
+ {
+  "id": "wkshf_QfZFM",
+  "published": "2026-11-22T11:00:14+00:00",
+  "leagueId": "kleague",
+  "a": "kleague:광주",
+  "b": "kleague:부천",
+  "unit": "single",
+  "n": null,
+  "stage": "36R",
+  "event": "K리그1",
+  "quality": 2,
+  "emb": true
  }
 ]

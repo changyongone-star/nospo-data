@@ -48,6 +48,22 @@
   ]
  },
  {
+  "matchId": "m-da88fa34ad",
+  "leagueId": "laliga",
+  "date": "2026-11-23",
+  "league": "라리가 13R",
+  "teamA": "laliga:AT. 마드리드",
+  "teamB": "laliga:헤타페",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "Y-e_4Mydvc0"
+   }
+  ]
+ },
+ {
   "matchId": "m-b01fa5ff77",
   "leagueId": "epl",
   "date": "2026-11-22",

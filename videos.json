@@ -3564,5 +3564,18 @@
   "event": "프리미어리그",
   "quality": 1,
   "emb": true
+ },
+ {
+  "id": "Y-e_4Mydvc0",
+  "published": "2026-11-22T23:04:32+00:00",
+  "leagueId": "laliga",
+  "a": "laliga:헤타페",
+  "b": "laliga:AT. 마드리드",
+  "unit": "single",
+  "n": null,
+  "stage": "13R",
+  "event": "라리가",
+  "quality": 1,
+  "emb": true
  }
 ]

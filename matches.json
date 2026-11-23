@@ -176,22 +176,6 @@
   ]
  },
  {
-  "matchId": "m-88a1ba8b06",
-  "leagueId": "nba",
-  "date": "2026-11-22",
-  "league": "NBA",
-  "teamA": "nba-ind",
-  "teamB": "nba-nyk",
-  "bestOf": 1,
-  "ready": true,
-  "sets": [
-   {
-    "setNo": 1,
-    "videoId": "sUFCZ146zk8"
-   }
-  ]
- },
- {
   "matchId": "m-449bbf6d89",
   "leagueId": "kleague",
   "date": "2026-11-21",

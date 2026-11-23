@@ -902,7 +902,7 @@
  },
  {
   "id": "dIKGNynTfpo",
-  "published": "2026-11-08T23:13:14Z",
+  "published": "2026-11-08T23:13:14+00:00",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -914,7 +914,7 @@
  },
  {
   "id": "-ci-Ursh0XQ",
-  "published": "2026-11-09T00:02:34Z",
+  "published": "2026-11-09T00:02:34+00:00",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -926,7 +926,7 @@
  },
  {
   "id": "r503bsF16-o",
-  "published": "2026-11-09T01:02:05Z",
+  "published": "2026-11-09T01:02:05+00:00",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -938,7 +938,7 @@
  },
  {
   "id": "rQTHR3aL0SE",
-  "published": "2026-11-09T02:10:07Z",
+  "published": "2026-11-09T02:10:07+00:00",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -950,7 +950,7 @@
  },
  {
   "id": "EZC69nAoOMs",
-  "published": "2026-11-09T01:58:15Z",
+  "published": "2026-11-09T01:58:15+00:00",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -2124,7 +2124,7 @@
  },
  {
   "id": "xHCVZLZYdpM",
-  "published": "2026-11-14T13:00:28Z",
+  "published": "2026-11-14T13:00:28+00:00",
   "leagueId": "kbl",
   "a": "kbl-lg",
   "b": "kbl-mobis",
@@ -2137,7 +2137,7 @@
  },
  {
   "id": "mFNLDnCG2cc",
-  "published": "2026-11-14T13:00:19Z",
+  "published": "2026-11-14T13:00:19+00:00",
   "leagueId": "kbl",
   "a": "kbl-kcc",
   "b": "kbl-sk",
@@ -2150,7 +2150,7 @@
  },
  {
   "id": "lC8eo6CjDG8",
-  "published": "2026-11-14T15:30:12Z",
+  "published": "2026-11-14T15:30:12+00:00",
   "leagueId": "kbl",
   "a": "kbl-samsung",
   "b": "kbl-kgc",
@@ -2163,7 +2163,7 @@
  },
  {
   "id": "j4UP9fVpZsA",
-  "published": "2026-11-14T21:30:00Z",
+  "published": "2026-11-14T21:30:00+00:00",
   "leagueId": "lol",
   "a": "gen",
   "b": "blg",
@@ -2175,7 +2175,7 @@
  },
  {
   "id": "PKf7Dzxeshs",
-  "published": "2026-11-14T22:52:25Z",
+  "published": "2026-11-14T22:52:25+00:00",
   "leagueId": "lol",
   "a": "gen",
   "b": "blg",
@@ -2187,7 +2187,7 @@
  },
  {
   "id": "-_AagknPhzM",
-  "published": "2026-11-14T23:38:24Z",
+  "published": "2026-11-14T23:38:24+00:00",
   "leagueId": "lol",
   "a": "gen",
   "b": "blg",
@@ -2199,7 +2199,7 @@
  },
  {
   "id": "huFH_r9JjPA",
-  "published": "2026-11-15T00:30:00Z",
+  "published": "2026-11-15T00:30:00+00:00",
   "leagueId": "lol",
   "a": "gen",
   "b": "blg",
@@ -2211,7 +2211,7 @@
  },
  {
   "id": "qhldObL8zpY",
-  "published": "2026-11-15T00:50:58Z",
+  "published": "2026-11-15T00:50:58+00:00",
   "leagueId": "lol",
   "a": "gen",
   "b": "blg",
@@ -2307,7 +2307,7 @@
  },
  {
   "id": "jy77DXDom5M",
-  "published": "2026-11-15T13:00:08Z",
+  "published": "2026-11-15T13:00:08+00:00",
   "leagueId": "kbl",
   "a": "kbl-sono",
   "b": "kbl-db",
@@ -2320,7 +2320,7 @@
  },
  {
   "id": "n32XL0zExLg",
-  "published": "2026-11-15T15:30:28Z",
+  "published": "2026-11-15T15:30:28+00:00",
   "leagueId": "kbl",
   "a": "kbl-lg",
   "b": "kbl-kt",
@@ -2333,7 +2333,7 @@
  },
  {
   "id": "Wq3dDej0EOk",
-  "published": "2026-11-15T15:30:23Z",
+  "published": "2026-11-15T15:30:23+00:00",
   "leagueId": "kbl",
   "a": "kbl-kcc",
   "b": "kbl-kogas",
@@ -2486,7 +2486,7 @@
  },
  {
   "id": "-2sNokEyuks",
-  "published": "2026-11-16T18:00:12Z",
+  "published": "2026-11-16T18:00:12+00:00",
   "leagueId": "kbl",
   "a": "kbl-sk",
   "b": "kbl-mobis",
@@ -2625,7 +2625,7 @@
  },
  {
   "id": "vNBFJBN70Sg",
-  "published": "2026-11-17T18:00:10Z",
+  "published": "2026-11-17T18:00:10+00:00",
   "leagueId": "kbl",
   "a": "kbl-db",
   "b": "kbl-kgc",
@@ -2764,7 +2764,7 @@
  },
  {
   "id": "x03Bv44Hykk",
-  "published": "2026-11-18T18:00:18Z",
+  "published": "2026-11-18T18:00:18+00:00",
   "leagueId": "kbl",
   "a": "kbl-samsung",
   "b": "kbl-lg",
@@ -2959,7 +2959,7 @@
  },
  {
   "id": "hIZr38K3hvo",
-  "published": "2026-11-19T18:00:32Z",
+  "published": "2026-11-19T18:00:32+00:00",
   "leagueId": "kbl",
   "a": "kbl-kt",
   "b": "kbl-sk",
@@ -2972,7 +2972,7 @@
  },
  {
   "id": "1GYL01DUcb4",
-  "published": "2026-11-19T18:00:19Z",
+  "published": "2026-11-19T18:00:19+00:00",
   "leagueId": "kbl",
   "a": "kbl-kgc",
   "b": "kbl-kcc",
@@ -3462,7 +3462,7 @@
  },
  {
   "id": "fD9ObwrdOHI",
-  "published": "2026-11-22T07:24:02Z",
+  "published": "2026-11-22T07:24:02+00:00",
   "leagueId": "nba",
   "a": "nba-mil",
   "b": "nba-phi",
@@ -3502,7 +3502,7 @@
  },
  {
   "id": "JodbK0_vQsY",
-  "published": "2026-11-22T11:00:22Z",
+  "published": "2026-11-22T11:00:22+00:00",
   "leagueId": "kleague",
   "a": "kleague:김천",
   "b": "kleague:제주",
@@ -3528,7 +3528,7 @@
  },
  {
   "id": "pvpLDYuZUNI",
-  "published": "2026-11-22T19:00:30Z",
+  "published": "2026-11-22T19:00:30+00:00",
   "leagueId": "epl",
   "a": "epl:헐 시티",
   "b": "epl:브라이튼",
@@ -3541,7 +3541,7 @@
  },
  {
   "id": "y5EOVyFGSBM",
-  "published": "2026-11-22T19:00:09Z",
+  "published": "2026-11-22T19:00:09+00:00",
   "leagueId": "laliga",
   "a": "laliga:바르셀로나",
   "b": "laliga:비야레알",
@@ -3554,7 +3554,7 @@
  },
  {
   "id": "XUbXM7NNhAw",
-  "published": "2026-11-22T22:00:20Z",
+  "published": "2026-11-22T22:00:20+00:00",
   "leagueId": "epl",
   "a": "epl:리버풀",
   "b": "epl:맨유",
@@ -3567,7 +3567,7 @@
  },
  {
   "id": "Y-e_4Mydvc0",
-  "published": "2026-11-22T23:04:32Z",
+  "published": "2026-11-22T23:04:32+00:00",
   "leagueId": "laliga",
   "a": "laliga:헤타페",
   "b": "laliga:AT. 마드리드",
@@ -3580,7 +3580,7 @@
  },
  {
   "id": "wQ8QMIYmWeA",
-  "published": "2026-11-22T23:16:23Z",
+  "published": "2026-11-22T23:16:23+00:00",
   "leagueId": "nba",
   "a": "nba-det",
   "b": "nba-atl",
@@ -3594,7 +3594,7 @@
  },
  {
   "id": "F8cvs98ZEJ4",
-  "published": "2026-11-23T01:34:39Z",
+  "published": "2026-11-23T01:34:39+00:00",
   "leagueId": "nba",
   "a": "nba-okc",
   "b": "nba-mia",
@@ -3608,7 +3608,7 @@
  },
  {
   "id": "6LGBQv5bPz8",
-  "published": "2026-11-23T02:43:57Z",
+  "published": "2026-11-23T02:43:57+00:00",
   "leagueId": "nba",
   "a": "nba-orl",
   "b": "nba-was",
@@ -3622,7 +3622,7 @@
  },
  {
   "id": "fku0QvOiRm8",
-  "published": "2026-11-23T03:09:24Z",
+  "published": "2026-11-23T03:09:24+00:00",
   "leagueId": "nba",
   "a": "nba-den",
   "b": "nba-chi",
@@ -3636,7 +3636,7 @@
  },
  {
   "id": "HiWq0b23dbk",
-  "published": "2026-11-23T03:07:20Z",
+  "published": "2026-11-23T03:07:20+00:00",
   "leagueId": "nba",
   "a": "nba-dal",
   "b": "nba-uta",
@@ -3650,7 +3650,7 @@
  },
  {
   "id": "sUFCZ146zk8",
-  "published": "2026-11-23T03:55:01Z",
+  "published": "2026-11-23T03:55:01+00:00",
   "leagueId": "nba",
   "a": "nba-ind",
   "b": "nba-nyk",
@@ -3664,7 +3664,7 @@
  },
  {
   "id": "CheW6PwsdoU",
-  "published": "2026-11-23T04:14:21Z",
+  "published": "2026-11-23T04:14:21+00:00",
   "leagueId": "nba",
   "a": "nba-bos",
   "b": "nba-gsw",

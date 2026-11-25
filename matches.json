@@ -1658,7 +1658,7 @@
  {
   "matchId": "m-41c148a103",
   "leagueId": "kbo",
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "league": "KBO 플레이오프",
   "teamA": "kbo-kia",
   "teamB": "kbo-samsung",
@@ -1667,7 +1667,7 @@
   "sets": [
    {
     "setNo": 1,
-    "videoId": "wyC8BnovUUA"
+    "videoId": null
    },
    {
     "setNo": 2,

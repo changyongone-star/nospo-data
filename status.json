@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-25T03:54:52.884Z",
+ "checkedAt": "2026-11-25T05:15:50.887Z",
  "matches": 102,
  "latestByLeague": {
   "epl": "2026-11-23",
@@ -28,7 +28,7 @@
   },
   "NBA": {
    "parsed": 8,
-   "apiParsed": 23,
+   "apiParsed": 24,
    "apiAdded": 0
   }
  }

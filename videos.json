@@ -3791,5 +3791,33 @@
   "dateStr": "2026/11/24",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "Cv92zqJxO1k",
+  "published": "2026-11-25T06:06:24+00:00",
+  "leagueId": "nba",
+  "a": "nba-bos",
+  "b": "nba-was",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/24",
+  "quality": 2,
+  "emb": false
+ },
+ {
+  "id": "ZV_1v8zzUbw",
+  "published": "2026-11-25T06:02:25+00:00",
+  "leagueId": "nba",
+  "a": "nba-dal",
+  "b": "nba-den",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/24",
+  "quality": 1,
+  "emb": false
  }
 ]

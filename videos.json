@@ -3891,5 +3891,19 @@
   "dateStr": "2026/11/25",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "d1ml5nG4h0M",
+  "published": "2026-11-26T04:30:29+00:00",
+  "leagueId": "nba",
+  "a": "nba-phx",
+  "b": "nba-hou",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/25",
+  "quality": 1,
+  "emb": false
  }
 ]

@@ -3807,5 +3807,19 @@
   "dateStr": "2026/11/25",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "LxVYg_oWtq8",
+  "published": "2026-11-26T02:34:50+00:00",
+  "leagueId": "nba",
+  "a": "nba-mia",
+  "b": "nba-phi",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/25",
+  "quality": 2,
+  "emb": false
  }
 ]

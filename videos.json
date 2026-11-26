@@ -1073,19 +1073,6 @@
   "emb": true
  },
  {
-  "id": "p-BBD0DMTYw",
-  "published": "2026-10-27T13:16:18Z",
-  "leagueId": "kbo",
-  "a": "kbo-kia",
-  "b": "kbo-samsung",
-  "unit": "game",
-  "n": 2,
-  "stage": "플레이오프",
-  "event": "2026 신한 SOL KBO 포스트시즌",
-  "dateStr": "10/27",
-  "emb": true
- },
- {
   "id": "shKl4TLb28Y",
   "published": "2026-11-09T02:14:01Z",
   "leagueId": "nba",

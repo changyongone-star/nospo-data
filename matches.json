@@ -1,21 +1,5 @@
 [
  {
-  "matchId": "m-48ca2cea2c",
-  "leagueId": "nba",
-  "date": "2026-11-25",
-  "league": "NBA · NBA컵",
-  "teamA": "nba-lac",
-  "teamB": "nba-mem",
-  "bestOf": 1,
-  "ready": true,
-  "sets": [
-   {
-    "setNo": 1,
-    "videoId": "gN2-ZSIz7ck"
-   }
-  ]
- },
- {
   "matchId": "m-d66ce8cdae",
   "leagueId": "epl",
   "date": "2026-11-23",

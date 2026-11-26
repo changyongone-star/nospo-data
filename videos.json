@@ -3835,5 +3835,19 @@
   "dateStr": "2026/11/25",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "ijXNLi63Xxw",
+  "published": "2026-11-26T03:11:37+00:00",
+  "leagueId": "nba",
+  "a": "nba-cle",
+  "b": "nba-nyk",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/25",
+  "quality": 1,
+  "emb": false
  }
 ]

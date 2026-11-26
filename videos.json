@@ -3821,5 +3821,19 @@
   "dateStr": "2026/11/25",
   "quality": 2,
   "emb": false
+ },
+ {
+  "id": "7W5dg0c7C3A",
+  "published": "2026-11-26T02:47:18+00:00",
+  "leagueId": "nba",
+  "a": "nba-chi",
+  "b": "nba-cha",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/25",
+  "quality": 1,
+  "emb": false
  }
 ]

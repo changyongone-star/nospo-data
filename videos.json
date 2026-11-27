@@ -3882,7 +3882,7 @@
  },
  {
   "id": "pGbbg2LRLlE",
-  "published": "2026-11-26T06:04:08Z",
+  "published": "2026-11-26T06:04:08+00:00",
   "leagueId": "nba",
   "a": "nba-sas",
   "b": "nba-por",
@@ -3896,7 +3896,7 @@
  },
  {
   "id": "0vg4rEM49HY",
-  "published": "2026-11-26T06:02:47Z",
+  "published": "2026-11-26T06:02:47+00:00",
   "leagueId": "nba",
   "a": "nba-sac",
   "b": "nba-gsw",
@@ -3910,7 +3910,7 @@
  },
  {
   "id": "5EaY-W4T8O8",
-  "published": "2026-11-26T06:33:10Z",
+  "published": "2026-11-26T06:33:10+00:00",
   "leagueId": "nba",
   "a": "nba-sas",
   "b": "nba-por",

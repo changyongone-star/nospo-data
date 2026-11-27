@@ -902,7 +902,7 @@
  },
  {
   "id": "dIKGNynTfpo",
-  "published": "2026-11-08T23:13:14+00:00",
+  "published": "2026-11-08T23:13:14Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -914,7 +914,7 @@
  },
  {
   "id": "-ci-Ursh0XQ",
-  "published": "2026-11-09T00:02:34+00:00",
+  "published": "2026-11-09T00:02:34Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -926,7 +926,7 @@
  },
  {
   "id": "r503bsF16-o",
-  "published": "2026-11-09T01:02:05+00:00",
+  "published": "2026-11-09T01:02:05Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -938,7 +938,7 @@
  },
  {
   "id": "rQTHR3aL0SE",
-  "published": "2026-11-09T02:10:07+00:00",
+  "published": "2026-11-09T02:10:07Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -950,7 +950,7 @@
  },
  {
   "id": "EZC69nAoOMs",
-  "published": "2026-11-09T01:58:15+00:00",
+  "published": "2026-11-09T01:58:15Z",
   "leagueId": "lol",
   "a": "blg",
   "b": "t1",
@@ -2059,7 +2059,7 @@
  },
  {
   "id": "j4UP9fVpZsA",
-  "published": "2026-11-14T21:30:00+00:00",
+  "published": "2026-11-14T21:30:00Z",
   "leagueId": "lol",
   "a": "gen",
   "b": "blg",
@@ -2071,7 +2071,7 @@
  },
  {
   "id": "PKf7Dzxeshs",
-  "published": "2026-11-14T22:52:25+00:00",
+  "published": "2026-11-14T22:52:25Z",
   "leagueId": "lol",
   "a": "gen",
   "b": "blg",
@@ -2083,7 +2083,7 @@
  },
  {
   "id": "-_AagknPhzM",
-  "published": "2026-11-14T23:38:24+00:00",
+  "published": "2026-11-14T23:38:24Z",
   "leagueId": "lol",
   "a": "gen",
   "b": "blg",
@@ -2095,7 +2095,7 @@
  },
  {
   "id": "huFH_r9JjPA",
-  "published": "2026-11-15T00:30:00+00:00",
+  "published": "2026-11-15T00:30:00Z",
   "leagueId": "lol",
   "a": "gen",
   "b": "blg",
@@ -2107,7 +2107,7 @@
  },
  {
   "id": "qhldObL8zpY",
-  "published": "2026-11-15T00:50:58+00:00",
+  "published": "2026-11-15T00:50:58Z",
   "leagueId": "lol",
   "a": "gen",
   "b": "blg",
@@ -3826,7 +3826,7 @@
  },
  {
   "id": "gN2-ZSIz7ck",
-  "published": "2026-11-26T03:42:57+00:00",
+  "published": "2026-11-26T03:42:57Z",
   "leagueId": "nba",
   "a": "nba-lac",
   "b": "nba-mem",
@@ -3840,7 +3840,7 @@
  },
  {
   "id": "kz3nvPo8EjQ",
-  "published": "2026-11-26T03:41:04+00:00",
+  "published": "2026-11-26T03:41:04Z",
   "leagueId": "nba",
   "a": "nba-bkn",
   "b": "nba-mil",
@@ -3868,7 +3868,7 @@
  },
  {
   "id": "d1ml5nG4h0M",
-  "published": "2026-11-26T04:30:29+00:00",
+  "published": "2026-11-26T04:30:29Z",
   "leagueId": "nba",
   "a": "nba-phx",
   "b": "nba-hou",
@@ -3882,7 +3882,7 @@
  },
  {
   "id": "pGbbg2LRLlE",
-  "published": "2026-11-26T06:04:08+00:00",
+  "published": "2026-11-26T06:04:08Z",
   "leagueId": "nba",
   "a": "nba-sas",
   "b": "nba-por",
@@ -3896,7 +3896,7 @@
  },
  {
   "id": "0vg4rEM49HY",
-  "published": "2026-11-26T06:02:47+00:00",
+  "published": "2026-11-26T06:02:47Z",
   "leagueId": "nba",
   "a": "nba-sac",
   "b": "nba-gsw",
@@ -3910,7 +3910,7 @@
  },
  {
   "id": "5EaY-W4T8O8",
-  "published": "2026-11-26T06:33:10+00:00",
+  "published": "2026-11-26T06:33:10Z",
   "leagueId": "nba",
   "a": "nba-sas",
   "b": "nba-por",

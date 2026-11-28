@@ -1592,6 +1592,38 @@
   ]
  },
  {
+  "matchId": "m-41c148a103",
+  "leagueId": "kbo",
+  "date": "2026-10-30",
+  "league": "KBO 플레이오프",
+  "teamA": "kbo-kia",
+  "teamB": "kbo-samsung",
+  "bestOf": 5,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": null
+   },
+   {
+    "setNo": 2,
+    "videoId": null
+   },
+   {
+    "setNo": 3,
+    "videoId": null
+   },
+   {
+    "setNo": 4,
+    "videoId": "ejMdL3m6Dpc"
+   },
+   {
+    "setNo": 5,
+    "videoId": "IT2iLKT3a6c"
+   }
+  ]
+ },
+ {
   "matchId": "w26-d5-t1-mkoi",
   "date": "2026-10-29",
   "league": "월즈 스위스",
@@ -1652,38 +1684,6 @@
    {
     "setNo": 1,
     "videoId": "_YrK2XWAR3g"
-   }
-  ]
- },
- {
-  "matchId": "m-41c148a103",
-  "leagueId": "kbo",
-  "date": "2026-10-29",
-  "league": "KBO 플레이오프",
-  "teamA": "kbo-kia",
-  "teamB": "kbo-samsung",
-  "bestOf": 5,
-  "ready": true,
-  "sets": [
-   {
-    "setNo": 1,
-    "videoId": null
-   },
-   {
-    "setNo": 2,
-    "videoId": null
-   },
-   {
-    "setNo": 3,
-    "videoId": "U7GxmDzjCuk"
-   },
-   {
-    "setNo": 4,
-    "videoId": "ejMdL3m6Dpc"
-   },
-   {
-    "setNo": 5,
-    "videoId": "IT2iLKT3a6c"
    }
   ]
  },

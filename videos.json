@@ -3935,5 +3935,47 @@
   "dateStr": "2026/11/27",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "ps8mYgSrs6A",
+  "published": "2026-11-28T03:18:48+00:00",
+  "leagueId": "nba",
+  "a": "nba-mil",
+  "b": "nba-det",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/27",
+  "quality": 1,
+  "emb": false
+ },
+ {
+  "id": "y1Y-9H-tVEk",
+  "published": "2026-11-28T03:18:28+00:00",
+  "leagueId": "nba",
+  "a": "nba-bkn",
+  "b": "nba-tor",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/27",
+  "quality": 1,
+  "emb": false
+ },
+ {
+  "id": "oGJfE7fET-A",
+  "published": "2026-11-28T03:15:08+00:00",
+  "leagueId": "nba",
+  "a": "nba-phi",
+  "b": "nba-ind",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/27",
+  "quality": 1,
+  "emb": false
  }
 ]

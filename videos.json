@@ -3921,5 +3921,19 @@
   "event": "프리미어리그",
   "quality": 1,
   "emb": true
+ },
+ {
+  "id": "kon85l31x1M",
+  "published": "2026-11-28T03:04:58+00:00",
+  "leagueId": "nba",
+  "a": "nba-mia",
+  "b": "nba-nyk",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/27",
+  "quality": 1,
+  "emb": false
  }
 ]

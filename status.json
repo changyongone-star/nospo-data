@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-28T13:01:19.086Z",
+ "checkedAt": "2026-11-28T14:22:23.899Z",
  "matches": 108,
  "latestByLeague": {
   "epl": "2026-11-28",
@@ -22,8 +22,8 @@
    "apiAdded": 0
   },
   "쿠팡플레이 스포츠": {
-   "parsed": 7,
-   "apiParsed": 7,
+   "parsed": 8,
+   "apiParsed": 9,
    "apiAdded": 0
   },
   "NBA": {

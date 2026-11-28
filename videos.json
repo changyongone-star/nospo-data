@@ -4089,5 +4089,19 @@
   "dateStr": "2026/11/27",
   "quality": 1,
   "emb": false
+ },
+ {
+  "id": "Evj14o6Hslw",
+  "published": "2026-11-28T06:20:20Z",
+  "leagueId": "nba",
+  "a": "nba-lal",
+  "b": "nba-sas",
+  "unit": "single",
+  "n": null,
+  "stage": "NBA컵",
+  "event": "NBA",
+  "dateStr": "2026/11/27",
+  "quality": 2,
+  "emb": false
  }
 ]

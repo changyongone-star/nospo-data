@@ -16,6 +16,38 @@
   ]
  },
  {
+  "matchId": "m-4e628e41ea",
+  "leagueId": "kleague",
+  "date": "2026-11-28",
+  "league": "K리그1 37R",
+  "teamA": "kleague:대전",
+  "teamB": "kleague:서울",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "OljN1SKsPaI"
+   }
+  ]
+ },
+ {
+  "matchId": "m-3e18e03fa8",
+  "leagueId": "kleague",
+  "date": "2026-11-28",
+  "league": "K리그1 37R",
+  "teamA": "kleague:안양",
+  "teamB": "kleague:제주",
+  "bestOf": 1,
+  "ready": true,
+  "sets": [
+   {
+    "setNo": 1,
+    "videoId": "50NhWGH6wgo"
+   }
+  ]
+ },
+ {
   "matchId": "m-6425ace247",
   "leagueId": "nba",
   "date": "2026-11-25",
